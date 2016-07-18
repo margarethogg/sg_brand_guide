@@ -6,7 +6,7 @@
 * [03 / Color](03__color.md)
 * [04 / Typography](04__typography.md)
 * [05 / Photography](05__photography.md)
-* 06 / Iconography
+* [06 / Iconography](06__iconography.md)
 * 07 / Illustration
 * 08 / Digital Components
 
