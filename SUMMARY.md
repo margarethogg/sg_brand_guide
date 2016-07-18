@@ -7,4 +7,5 @@
 * 04 / Typography
 * 05 / Photography
 * 06 / Iconography
+* 07 / Illustration
 
