@@ -8,4 +8,5 @@
 * 05 / Photography
 * 06 / Iconography
 * 07 / Illustration
+* 08 / Digital Components
 
