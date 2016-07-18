@@ -1,6 +1,6 @@
 # Summary
 
-* 00 / Introduction
+* [00 / Introduction](README.md)
 * 01 / Design Principles
 * 02 / Shiftgig Logo
 * 03 / Color
