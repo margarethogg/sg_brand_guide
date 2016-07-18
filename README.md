@@ -8,3 +8,5 @@ We believe everyone benefits when people are empowered to work the way they want
 
 ## THE SHIFTGIG BRAND
 These documents are a living guide to all elements of the Shiftgig Brand and their use across mobile, digital, and print applications.
+
+## ABOUT
