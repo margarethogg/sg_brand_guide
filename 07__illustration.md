@@ -24,9 +24,9 @@ When possible, add movement to illustrations in order to add interest and catch 
 * Do use geometric forms and rounded corners to create illustrations.
 * Do add flattened drop shadows or dimension to illustration as needed.
 * Do not add gradients, soft drop shadows, textures or painterly brush strokes to illustrations
-* Do treat images as flat elements and, if dimension is needed, apply one shadow at 0º-8º that spans the entire image.
+* Do treat images as flat elements and, if dimension is needed, apply one shadow at 0º - 8º that spans the entire image.
 * Do use soft, bright colors that complement Shiftgig's brand colors. For an available illustration palette, visit the resources section.
 * Do not add overly saturated, dark, or garish colors.
 * Do maintain good contrast within illustrations. If possible, check if they still read when converted to grayscale.
-* Do not create images that are overly cartoonish, dated, or "clipart" styled.
+* Do not create images that are overly cartoony, dated, or "clip art" styled.
 * Do create images as vectors that can be reproduced at several sizes and used for both digital and print applications. 
