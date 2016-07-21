@@ -1,39 +1,32 @@
 #07.0 / Illustration
 
-The tone of our illustration is straightforward yet considered, reductive yet communicative. They are designed to work together as a functional and cohesive system across the entire digital experience.
+We've built a library of illustrations in a style that complements our brand colors and our clean, friendly, and open design language. Our brand voice is friendly and conversational, and our imagery should reflect the same tone. Our use of color and rhythm ties our illustration together across our full library
 
-##A Consistent System
-
-All of the Illustrations shown on these pages are displayed on corresponding background colors. One or more backgrounds are shown where applicable. Illustrations should be reversed out on all colors except yellow. For more specific information about color, please see the color section.
-
-#06.1 / Illustration Library
-
-The Illustration family has been designed to assist our users with a quicker navigation throughout the site.
-
-Each Illustration has been carefully thought out and strategically placed to best represent the products and offers of our company. The set sizing of the Illustration family are:
-
-#06.2 / Illustration Creation Rules
+#07.2 / Illustration Creation Rules
 
 ###Geometric vs. Organic
-Whenever possible, Illustrations should be created using simple geometric shapes. This approach helps to create a sturdy collection of Illustrations and reinforces consistency.
+Build illustrations using simple geometric shapes combined with rounded corners. The use of circles, squares, and simple forms as the basis for our illustrations sets up a rhythm that ties our complete library together. Prefer lines that fall at 45º and 90º to randomly chosen angles and curves.
 
-###Simplifed vs. Detailed
-Illustrations should be reduced down to their most simplified form that still allows for effective communication. This includes eliminating any type of perspective to maintain a  at form.
-
-###Straight Line vs. Rounded
-With the exception of circles, all edges should be hard rather than soft. Hard edges convey straightforwardness and when used consistently, help to create a cohesive system. In certain cases this rule can be bent but only when a soft edge is crucial to the communication of the Illustration.
+###Iconic vs. Representational
+Reduce illustrations to their most simple forms and universal meanings. Abstracting images makes them relatable to a wider audience. Avoid creating overly detailed or photo-realistic images.
 
 ###Flat vs. Dimensional
-In keeping with the simplified, approach, Illustrations should never appear to have dimension, shadows or gradients. They should remain  at and minimal to keep consistency to the overall design and feel of the site.
+Following styles set forth by iOS 7 and Material Design, avoid dimensional shadows and skeumorphism in favor of flat, iconic imagery. 
 
-#06.3 / illustration Dos & Don'ts
+###Diverse vs monotone
+Our Specialists, cities and shifts are incredibly diverse, and our brand should reflect that. As when selecting stock photography, avoid defaulting to one platform, gender, or race when creating illustrations. If possible, create variations that can be randomized or used throughout different applications.
 
-##Sizing & Proportions
+###Dynamic vs. Static
+When possible, add movement to illustrations in order to add interest and catch the eye of the viewer.
 
-Whenever possible, Illustrations should be used in one of two established sizes – 24 or 16px. In rare instances when an inline Illustration is required, the absolute minimum size should be no smaller than 12px in height to ensure readability and consistency.
+#07.3 / Illustration Dos & Don'ts
 
-##A Consistent Language
-
-Utilizing a consistent language across all of our illustration is important to ensure a cohesive aesthetic throughout the Shiftgig digital experience. Following these guidelines when creating new illustration will result in a strong system of Illustrations and coherent communication.
-
-
+* Do use geometric forms and rounded corners to create illustrations.
+* Do add flattened drop shadows or dimension to illustration as needed.
+* Do not add gradients, soft drop shadows, textures or painterly brush strokes to illustrations
+* Do treat images as flat elements and, if dimension is needed, apply one shadow at 0º-8º that spans the entire image.
+* Do use soft, bright colors that complement Shiftgig's brand colors. For an available illustration palette, visit the resources section.
+* Do not add overly saturated, dark, or garish colors.
+* Do maintain good contrast within illustrations. If possible, check if they still read when converted to grayscale.
+* Do not create images that are overly cartoonish, dated, or "clipart" styled.
+* Do create images as vectors that can be reproduced at several sizes and used for both digital and print applications. 
