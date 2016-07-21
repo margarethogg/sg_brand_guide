@@ -13,7 +13,7 @@ Reduce illustrations to their most simple forms and universal meanings. Abstract
 ###Flat vs. Dimensional
 Following styles set forth by iOS 7 and Material Design, avoid dimensional shadows and skeumorphism in favor of flat, iconic imagery. 
 
-###Diverse vs monotone
+###Diverse vs. monotone
 Our Specialists, cities and shifts are incredibly diverse, and our brand should reflect that. As when selecting stock photography, avoid defaulting to one platform, gender, or race when creating illustrations. If possible, create variations that can be randomized or used throughout different applications.
 
 ###Dynamic vs. Static
