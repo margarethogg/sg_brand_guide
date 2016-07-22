@@ -2,6 +2,34 @@
 
 For versatility, we've included several weights for each of our font families. Body copy should remain at the default 300 (Regular) weight unless emphasis is needed. Buttons are always 700 (bold). Headlines will typically use the 100 (light) or 900 (black) weights.
 
+
+<ul>
+	<li class="sampleBox block">
+		  <div class="sampleBox--fontLight">
+		  	<h2>Aa</h2>
+		  	<p>Light</p>
+		  </div>
+	</li>
+	<li class="sampleBox block">
+		  <div class="sampleBox--fontNormal">
+		  	<h2>Aa</h2>
+		  	<p>Normal</p>
+		  </div>
+	</li>
+	<li class="sampleBox block">
+		  <div class="sampleBox--fontBold">
+		  	<h2>Aa</h2>
+		  	<p>Bold</p>
+		  </div>
+	</li>
+	<li class="sampleBox block">
+		  <div class="sampleBox--fontBlack">
+		  	<h2>Aa</h2>
+		  	<p>Black</p>
+		  </div>
+	</li>
+</ul>
+
 Shiftgig Black should be used on light backgrounds as the default color for all text in web and mobile applications. When text is used over dark backgrounds, color fields, and images, white should be used. Always make sure to maintain legibility of fonts used against dark and textured backgrounds, and use a heavier weight if needed.
 
 ##Museo Sans Rounded Type Family
@@ -68,33 +96,6 @@ Well structured typography has been established to provide good visual hierarchy
 
 ##Leading
 Proper leading improves legibility, allowing words to breathe on a page or screen. For body text we maintain a leading aspect of 1.6% over our type size to give our text an open, airy feel and optimize legibility for screen reading. Refer to the chart below for common font and leading sizes.
-
-<ul>
-	<li class="sampleBox block">
-		  <div class="sampleBox--fontLight">
-		  	<h2>Aa</h2>
-		  	<p>Light</p>
-		  </div>
-	</li>
-	<li class="sampleBox block">
-		  <div class="sampleBox--fontNormal">
-		  	<h2>Aa</h2>
-		  	<p>Normal</p>
-		  </div>
-	</li>
-	<li class="sampleBox block">
-		  <div class="sampleBox--fontBold">
-		  	<h2>Aa</h2>
-		  	<p>Bold</p>
-		  </div>
-	</li>
-	<li class="sampleBox block">
-		  <div class="sampleBox--fontBlack">
-		  	<h2>Aa</h2>
-		  	<p>Black</p>
-		  </div>
-	</li>
-</ul>
     
 ####28px/
 <p class="fontSample fontSample--larger">Wavy Jake's fat zebra had Mexican pig liqour.</p>
