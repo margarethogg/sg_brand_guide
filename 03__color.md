@@ -1,8 +1,8 @@
-#03.0 / Color
+#Color
 
 We've chosen a soft and bright palette that makes us unique in our industry. Service & hospitality jobs rely on personality to be successful. We want to echo that in our products.
 
-###Brand Colors
+##Brand Colors
 
 <ul>
 	<li class="block">
@@ -31,7 +31,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 	</li>
 </ul>
 
-###Supporting Colors
+##Supporting Colors
 
 <ul>
 	<li class="block">
@@ -109,7 +109,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 	</li>
 </ul>
 
-###Grayscale Palette
+##Grayscale Palette
 
 &#35;000000
 &#35;333333
@@ -119,9 +119,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 &#35;E6E6E6
 &#35;F2F2F2
 
-#03.1 / Gradient Palette
-
-##Using Gradients
+#Gradients
 
 Our color palette includes gradients for our five primary brand colors. Gradients are best used as background color fields to support hero imagery. These gradients should not be used in illustration, on buttons, or behind large blocks of text.
 
