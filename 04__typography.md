@@ -1,10 +1,8 @@
 #04.0 / Typography
 
-Focusing on the light weight of the Open Sans family, the primary digital typeface of Shiftgig's web applications, our typographic voice is clean, contemporary and approachable with a focus on legibility as well as an identifiable personality.
-          
 ##Museo Sans Rounded Type Family
 
-Museo Sans Rounded is our font of choice for all Shiftig web and print applications. It is a geometric, open, and casual font. For versatility, we've included several weights. Body copy should remain at the default 300 weight unless emphasis is needed. Buttons are always 700. Headlines will typically use the 100 or 900 weights.
+Museo Sans Rounded is our font of choice for all Shiftig web and print applications. It is a geometric, open, and casual font. 
 
 ####Museo Sans Rounded
 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
@@ -48,7 +46,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
 
 ##SF UI Type Family
 
-We use the San Francisco UI font family for all our iOS applications. SF UI is iOS's system font, and optimized for use on iPhones and iPads. Learn more about the SF UI font family in the [iOS Design Guide](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/
+We use the San Francisco UI font family for all our iOS applications. SF UI is iOS's system font, and optimized for use on iPhones and iPads. Learn more about the SF UI font family in the [iOS Design Guide](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/)
 
 ####SF UI
 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
@@ -70,7 +68,11 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
 
 #04.1 / Type Scale
 
+##Scale Contrast
 Well structured typography has been established to provide good visual hierarchy, leading the reader across the page in accordance to the level of importance of content. It provides visual punctuation and graphic accents to help readers connect headlines with content and text with images. Disciplined use of typographic standards helps create and maintain a strong and recognizable brand.
 
-#04.2 / Leading
+For versatility, we're including several weights for each of our font families. Body copy should remain at the default 300 (normal) weight unless emphasis is needed. Buttons are always 700 (bold). Headlines will typically use the 100 (light) or 900 (black) weights.
+
+##Leading
+Proper leading improves legibility, allowing words to breathe on a page or screen. We maintain a leading aspect of 1.27% over our type size to give our text an open, airy feel. Refer to the chart below for common font and leading sizes.
 
