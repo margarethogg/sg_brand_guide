@@ -1,4 +1,4 @@
-#06.0 / Iconography
+#Iconography
 
 The tone of our iconography is straightforward yet considered, reductive yet communicative. They are designed to work together as a functional and cohesive system across the entire digital experience.
 
@@ -6,7 +6,7 @@ The icon family has been designed to assist our users with a quicker navigation 
 
 Each icon has been carefully thought out and strategically placed to best represent the products and offers of our company. The set sizing of the icon family are:
 
-#06.2 / Icon Creation Rules
+#Icon Creation Rules
 
 ###Geometric vs. Organic
 Whenever possible, icons should be created using simple geometric shapes. This approach helps to create a sturdy collection of icons and reinforces consistency.
@@ -19,7 +19,7 @@ Icons should be reduced down to their most simplified form that still allows for
 ###Flat vs. Dimensional
 In keeping with the simplified, approach, icons should never appear to have dimension, shadows or gradients. They should remain  at and minimal to keep consistency to the overall design and feel of the site.
 
-#06.3 / Iconography Dos & Don'ts
+#Iconography Dos & Don'ts
 
 ##Sizing & Proportions
 
