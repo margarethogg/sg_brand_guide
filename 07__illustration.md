@@ -1,8 +1,8 @@
-#07.0 / Illustration
+#Illustration
 
 We've built a library of illustrations in a style that complements our brand colors and our clean, friendly, and open design language. Our brand voice is friendly and conversational, and our imagery should reflect the same tone. Our use of color and rhythm ties our illustration together across our full library
 
-#07.2 / Illustration Creation Rules
+#Illustration Creation Rules
 
 ###Geometric
 Build illustrations using simple geometric shapes combined with rounded corners. The use of circles, squares, and simple forms as the basis for our illustrations sets up a rhythm that ties our complete library together. Prefer lines that fall at 45º and 90º to randomly chosen angles and curves.
@@ -21,7 +21,7 @@ Our Specialists, cities and shifts are incredibly diverse, and our brand should 
 ###Dynamic
 When possible, add movement to illustrations in order to add interest and catch the eye of the viewer.
 
-#07.3 / Illustration Dos & Don'ts
+#Illustration Dos & Don'ts
 
 * Do use geometric forms and rounded corners to create illustrations.
 * Do add flattened drop shadows or dimension to illustration as needed.
