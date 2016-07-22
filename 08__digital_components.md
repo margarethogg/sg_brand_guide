@@ -1,23 +1,19 @@
 #Digital Elements
 
-We've designed a thorough system of interactive digital elements, all designed to work together. These elements help create consistent and useful interactions for all types of users across all digital channels.
-
 #Buttons
 
 ##Primary Buttons
-
-Primary buttons should always be placed at the bottom right of the page, with a minimum width of 140 px and 40 px of clear space around it. This call-to-action will allow the user to proceed to the next steps in travel process. The buttons on this page represent the standard size, but in cases where the text within does not fit, allow for 20 px of clear space on either side.
 
 ###Primary Button Styles
 
 ###Hover state - CSS layer
 
 
+##Button Color Language
+
 ##Primary Button Hierarchy
 
-Primary buttons should always be placed at the bottom right of the page, with a minimum width of 140 px and 40 px of clear space around it. This call-to-action will allow the user to proceed to the next steps in travel process. The buttons on this page represent the standard size, but in cases where the text within does not fit, allow for 20 px of clear space on either side.
-
-Sometimes it is necessary to give the user multiple options at a step in the path. In these cases, the preferred choice (action) should be given prominence by using the gold button and placing it on top or on the right. The secondary action (gray) should be placed on bottom or to the left.
+Sometimes it is necessary to give the user multiple options at a step in the path. In these cases, the preferred action should be given prominence by placing it on top in cases of stacked actions or on the right when actions are placed side by side. Right hand buttons should give the option to move forward with or accept an action, while left hand buttons are reserved for canceling or moving backwards within a flow.
 
 ##Primary & Secondary Actions – Stacked
 
