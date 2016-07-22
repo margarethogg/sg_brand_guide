@@ -1,7 +1,3 @@
----
-# Dashes are needed by Jekyll
----
-
 // Import partials from `sass_dir` (`_sass`)
 @import "bourbon/bourbon";
 @import "base/grid-settings";
