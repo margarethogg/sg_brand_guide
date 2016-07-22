@@ -123,7 +123,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 
 ##Using Gradients
 
-Our color palette includes bright, dynamic gradients for our five primary brand colors. Gradients are best used as background color fields to support hero imagery. These gradients should not be used in illustration, on buttons, or behind large blocks of text.
+Our color palette includes gradients for our five primary brand colors. Gradients are best used as background color fields to support hero imagery. These gradients should not be used in illustration, on buttons, or behind large blocks of text.
 
 <ul>
 	<li class="block">
