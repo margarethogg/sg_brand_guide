@@ -4,20 +4,20 @@
 
 Museo Sans Rounded is our font of choice for all Shiftig web and print applications. It is a geometric, open, and casual font. 
 
-####Museo Sans Rounded
-ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
+####Museo Sans Rounded 100
+<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
-####Museo Sans Rounded
-ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
+####Museo Sans Rounded 300
+<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
-####Museo Sans Rounded
-ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
+####Museo Sans Rounded 500
+<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
-####Museo Sans Rounded
-ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
+####Museo Sans Rounded 700
+<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
-####Museo Sans Rounded
-ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
+####Museo Sans Rounded 900
+<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ##Roboto Type Family
 
