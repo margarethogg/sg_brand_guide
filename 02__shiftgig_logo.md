@@ -1,4 +1,4 @@
-#02.0 / Shiftgig Logo
+#Shiftgig Logo
 
 Our iconic revolution mark and the Shiftgig name represent a new perspective on how everyday people work and how businesses hire. The revolution anchors our name, creating a balanced and complementary relationship. The agile quality of our typeface reinforces the qualities of our symbol, our process, and our approach to business. To download versions of our logo for Print and general use, visit the resources section of the guide.
 
