@@ -1,6 +1,6 @@
 #03.0 / Color
 
-We've chosen a soft and bright palette that makes us unique in our industry. Service & hospitality jobs rely on personality to be successful. We want to echo that in our products. Modifying these colors is ok! But modify them using SASS' Lighten and Darken functions. ( darken($blue, 15); )
+We've chosen a soft and bright palette that makes us unique in our industry. Service & hospitality jobs rely on personality to be successful. We want to echo that in our products.
 
 ###Brand Colors
 
