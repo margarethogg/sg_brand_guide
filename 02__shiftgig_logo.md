@@ -32,7 +32,7 @@ Our logo should always be used a consistent manner. Deviating from the establish
 2. Do Not create new or unapproved logo lock-ups.
 3. Do Not alter the proportions of the symbol or word mark or adjust the positioning of the elements.
 4. Do Not add colors to the logo.
-5. Do Not use the Shiftgig wordmark alone.
+5. Do Not use the Shiftgig word mark alone.
 1. Do Not add a drop shadow to the logo.
 2. Do Not add a gradient to the logo.
 3. Do Not recreate the logo with a different typeface.
