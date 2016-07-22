@@ -11,24 +11,24 @@ These documents are a living guide to all elements of the Shiftgig Brand and the
 
 ##Our Core Values
 
-###Respect
+####Respect
 Earn it everyday; from clients, from Specialists, and from colleagues.
 
-###Impact
+####Impact
 Always put your best foot forward, because everything you do matters.
 
-###Passion
+####Passion
 "Wow" everyone, everywhere, every time.
 
-###Teamwork
+####Teamwork
 Build, celebrate, and share success together.
 
-###Integrity
+####Integrity
 Do what's right; for our clients and Specialists, for our company, and for our community.
 
-###Community
+####Community
 Community is a two-way street. Make listening part of every conversation.
 
-###Innovation
+####Innovation
 Never stop dreaming.
 
