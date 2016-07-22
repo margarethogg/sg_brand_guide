@@ -11,5 +11,5 @@
 * [08 / Digital Components](08__digital_components.md)
    * [Buttons](buttons.md)
    * [Forms](forms.md)
-   * Alerts and Errors
+   * [Alerts and Errors](alerts_and_errors.md)
 
