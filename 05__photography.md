@@ -23,10 +23,10 @@ Photographs with a lot of density and detail can be an exciting addition to the 
 
 When selecting images, it is important to consider the tone and feeling of the image. It should avoid cliches and instead . Generic and staged images should be avoided. The viewer should always be delighted and engaged with the photograph, evoking a feeling of inspiration and excitement.
 
-Natural vs. Staged
-Unexpected vs. Cliche
-Specific vs. Generic
-Diverse vs. Monotonous
+###Natural vs. Staged
+###Unexpected vs. Cliche
+###Specific vs. Generic
+###Diverse vs. Monotonous
 
 As a basic rule, people should be the main focus of the photograph. In addition, they should always look natural rather than staged. The photograph should feel like a documentation of something real rather than people posing for a photograph.
 
