@@ -1,12 +1,8 @@
-#05.0 / Photography
+#Photography
 
-A well-curated photography library keeps our brand looking fresh and exciting.
+A well-curated photography library keeps our brand looking fresh and exciting. Photography is a universal way of communicating a story beyond words; it is a key part of our visual system. 
 
-#05.1 / Brand Photography
-
-Photography is a universal way of communicating a story beyond words; it is a key part of our visual system. 
-
-#05.2 / Images in Context
+#Images in Context
 When selecting images, it is important to consider layout and select images carefully to work within the layout. These guidelines will help in selecting imagery that will work compositionally.
 
 ##Dos & Don'ts
@@ -32,7 +28,7 @@ As a basic rule, people should be the main focus of the photograph. In addition,
 
 Our photography should avoid cliches, instead relying on more subtle visual cues to indicate the location of the photograph. An image that finds the sweet spot between unexpected and recognizable is ideal.
 
-#05.3 / Photography Refinements
+#Photography Refinements
 
 ##Perfecting Photographs
 
