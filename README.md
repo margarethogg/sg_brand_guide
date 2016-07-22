@@ -9,3 +9,25 @@ We believe everyone benefits when people are empowered to work the way they want
 ## THE SHIFTGIG BRAND
 These documents are a living guide to all elements of the Shiftgig Brand and their use across mobile, digital, and print applications.
 
+## Our Core Values
+
+###Respect
+Earn it everyday; from clients, from Specialists, and from colleagues.
+
+###Impact
+Always put your best foot forward, because everything you do matters.
+
+###Passion
+"Wow" everyone, everywhere, every time.
+
+###Teamwork
+Build, celebrate, and share success together.
+
+###Integrity
+Do what's right; for our clients and Specialists, for our company, and for our community.
+
+###Community
+Community is a two-way street. Make listening part of every conversation.
+
+###Innovation
+Never stop dreaming.
