@@ -2,12 +2,6 @@
 
 The tone of our iconography is straightforward yet considered, reductive yet communicative. They are designed to work together as a functional and cohesive system across the entire digital experience.
 
-##A Consistent System
-
-All of the icons shown on these pages are displayed on corresponding background colors. One or more backgrounds are shown where applicable. Icons should be reversed out on all colors except yellow. For more specific information about color, please see the color section.
-
-#06.1 / Icon Library
-
 The icon family has been designed to assist our users with a quicker navigation throughout the site.
 
 Each icon has been carefully thought out and strategically placed to best represent the products and offers of our company. The set sizing of the icon family are:
@@ -20,8 +14,7 @@ Whenever possible, icons should be created using simple geometric shapes. This a
 ###Simplifed vs. Detailed
 Icons should be reduced down to their most simplified form that still allows for effective communication. This includes eliminating any type of perspective to maintain a  at form.
 
-###Straight Line vs. Rounded
-With the exception of circles, all edges should be hard rather than soft. Hard edges convey straightforwardness and when used consistently, help to create a cohesive system. In certain cases this rule can be bent but only when a soft edge is crucial to the communication of the icon.
+###Soft vs. Hard
 
 ###Flat vs. Dimensional
 In keeping with the simplified, approach, icons should never appear to have dimension, shadows or gradients. They should remain  at and minimal to keep consistency to the overall design and feel of the site.
@@ -32,7 +25,4 @@ In keeping with the simplified, approach, icons should never appear to have dime
 
 Whenever possible, icons should be used in one of two established sizes – 24 or 16px. In rare instances when an inline icon is required, the absolute minimum size should be no smaller than 12px in height to ensure readability and consistency.
 
-##A Consistent Language
-
-Utilizing a consistent language across all of our iconography is important to ensure a cohesive aesthetic throughout the Shiftgig digital experience. Following these guidelines when creating new iconography will result in a strong system of icons and coherent communication.
-
+Icons within mobile platforms should follow the best practices within the platform.
