@@ -1,4 +1,4 @@
-#04.0 / Typography
+#Typography
 
 ##Museo Sans Rounded Type Family
 
@@ -66,7 +66,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
 ####SF UI
 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
 
-#04.1 / Type Rules
+#Type Rules
 
 ##Scale
 Well structured typography has been established to provide good visual hierarchy, leading the reader across the page in accordance to the level of importance of content. It provides visual punctuation and helps readers connect headlines with content. Through disciplined use of typographic standards we create and maintain a strong and recognizable brand.
