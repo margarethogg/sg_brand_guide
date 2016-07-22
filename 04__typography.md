@@ -66,13 +66,16 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
 ####SF UI
 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&()?”:;<
 
-#04.1 / Type Scale
+#04.1 / Type Rules
 
-##Scale Contrast
+##Scale
 Well structured typography has been established to provide good visual hierarchy, leading the reader across the page in accordance to the level of importance of content. It provides visual punctuation and helps readers connect headlines with content. Through disciplined use of typographic standards we create and maintain a strong and recognizable brand.
 
 For versatility, we've included several weights for each of our font families. Body copy should remain at the default 300 (normal) weight unless emphasis is needed. Buttons are always 700 (bold). Headlines will typically use the 100 (light) or 900 (black) weights.
 
 ##Leading
 Proper leading improves legibility, allowing words to breathe on a page or screen. We maintain a leading aspect of 1.27% over our type size to give our text an open, airy feel. Refer to the chart below for common font and leading sizes.
+
+##Color
+Shiftgig Black should be used as the default color for all text in web and mobile applications. 
 
