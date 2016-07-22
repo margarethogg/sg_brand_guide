@@ -46,7 +46,7 @@ Inline Alerts occur contextually within the page and pertain to a particular ite
 
 Tooltips are messages specifically set to show more data relating to a selection or to provide context for a piece of information when page space is limited.
 
-#Grids & Spacing
+#Grids & Key Lines
 
 By setting up grid templates and spacing guidelines, we promote consistency with a defined structure throughout our design. Grids ground content in a logical way, establishing a clear layout for all pages across the site.
 
