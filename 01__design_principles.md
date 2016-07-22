@@ -10,7 +10,7 @@ Simple
 ###Edgy
 Content 
 
-###User-driven
+###Functional
 A 
 
 ###Responsive
