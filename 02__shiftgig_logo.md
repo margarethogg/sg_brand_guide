@@ -8,7 +8,7 @@ Shiftgig Revolution Green has been specially selected as the defining color of o
 
 ###Clear Space
 
-![image](ExteriorSpacing.png)
+![image](./images/ExteriorSpacing.png)
 
 Giving our logo room to breathe allows it to separate itself from the content so our identity remains clear and uncluttered. The rule of thumb to follow is to use the width of our revolution symbol as a unit of measure for the space needed.
 
