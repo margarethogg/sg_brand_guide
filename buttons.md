@@ -1,8 +1,23 @@
 #Buttons
 
+##Button Sizes
+ <button class="btn--large">.btn--large</button>
+ <button class="btn">.btn</button>
+ <button class="btn--small">.btn--small</button>
+
 ##Primary Buttons
+ <button class="btn">.btn</button>
+ <button class="btn--alt">.btn--alt</button>
+ <button class="btn--update">.btn--update</button>
+ <button class="btn--remove">.btn--remove</button>
+ <button class="btn--disabled">.btn--disabled</button>
 
 ##Secondary Buttons
+ <button class="btn--hollow">.btn--hollow</button>
+ <button class="btn--hollowOnDark">.btn--hollowOnDark</button>
+ <button class="btn--large">.btn--large</button>
+ <button class="btn--small">.btn--small</button>
+ <button class="btn--link">.btn--link</button>
 
 ##Button Color Language
 
