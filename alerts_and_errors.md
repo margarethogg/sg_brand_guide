@@ -11,10 +11,18 @@ Shiftgig maintains a strong use of color messaging across all platforms. Our pri
 
 Flashes and System Alerts are notices, error messages, etc that occur at the top of a page or screen and pertain to information reflected on that particular page.
 
-This is a Notice. I might contain a caveat or a helpful tip.
-Look at me! I have something important to say!
-Oh Noes! Something went wrong. It's probably Brad's fault.
-Success! You did something that worked as expected–here's what happened.
+<div class="flash-notice">
+<strong>This is a Notice.</strong> I might contain a caveat or a helpful tip.
+</div>
+<div class="flash-alert">
+<strong>Look at me!</strong> I have something important to say!
+</div>
+<div class="flash-error">
+<strong>Oh Noes!</strong> Something went wrong. It's probably Brad's fault.
+</div>
+<div class="flash-success">
+<strong>Success!</strong> You did something that worked as expected. Here's what happened.
+</div>
 
 Messages should be accompanied by their corresponding color to show level of importance. There should never be more than two lines of text for either the headline or the information that follows. This will make sure the user stays engaged and is informed with important information that pertains to their selections.
 
