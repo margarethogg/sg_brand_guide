@@ -6,7 +6,7 @@ Shiftgig Revolution Green has been specially selected as the defining color of o
    
 ##Logo Usage
 
-![Shiftgig Logo Spacing](ExteriorSpacing.png)
+![image](ExteriorSpacing.png)
 
 ###Clear Space
 
