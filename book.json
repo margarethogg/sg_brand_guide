@@ -3,6 +3,5 @@
         "styles-sass"
     ],
     "styles": {
-        "pdf": "./css/main.scss"
     }
 }
