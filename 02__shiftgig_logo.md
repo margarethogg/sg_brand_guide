@@ -6,6 +6,12 @@ Shiftgig Revolution Green has been specially selected as the defining color of o
    
 ##Logo Usage
 
+![Shiftgig Logo Spacing](ExteriorSpacing.png)
+
+###Clear Space
+
+Giving our logo room to breathe allows it to separate itself from the content so our identity remains clear and uncluttered. The rule of thumb to follow is to use the width of our revolution symbol as a unit of measure for the space needed.
+
 ###Shiftgig Green & Grey
 
 The full color Shiftgig green & gray is our primary representation of our brand. This version should be placed on white or one of our light gray colored backgrounds (#F9F9F9, #E2E2E2). The green & gray color logo should never be used on any of the dark or saturated colors in our palette. 
@@ -17,12 +23,6 @@ For saturated or busy photo backgrounds, a solid white version of the logo may b
 ###Black & White
 
 The solid black or white version of the logo is reserved for use in grayscale applications. Always maintain sufficient contrast in order to preserve legibility of the logo.
-
-##Logo Rules
-
-###Clear Space
-
-Giving our logo room to breathe allows it to separate itself from the content so our identity remains clear and uncluttered. The rule of thumb to follow is to use the width of our revolution symbol as a unit of measure for the space needed.
 
 ###Correct Usage
 
