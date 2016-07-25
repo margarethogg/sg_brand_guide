@@ -5,5 +5,4 @@
     "styles": {
         "pdf": "./css/main.scss"
     }
-    "pluginsConfig": {}
 }
