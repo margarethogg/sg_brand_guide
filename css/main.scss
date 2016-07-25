@@ -1,0 +1,314 @@
+---
+# Dashes are needed by Jekyll
+---
+
+// Import partials from `sass_dir` (`_sass`)
+@import "bourbon/bourbon";
+@import "base/grid-settings";
+@import "neat/neat";
+@import "base/base";
+@import "fontawesome/font-awesome";
+@import "syntax-highlighting";
+
+body {
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+	font-weight: 300;
+	font-size: $fontSize-base;
+	line-hieght: $lineHeight-base;
+	color: $color-dark-gray;
+	background: $color-light-gray;
+}
+h1,h2,h3,h4,h5 {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+body.grid {
+	@include background-image(linear-gradient(to bottom, rgba(0,0,0,.15) 0, transparent 5%, transparent 100%));
+	background-repeat: repeat;
+	background-position: top left;
+	box-shadow: 1px 0px 0px hsla(200, 100%, 50%, .3), -1px 0px 0px hsla(200, 100%, 50%, .3);
+}
+img {
+	max-width: 100%;
+}
+.page-content {
+	margin: 0 10px;
+}
+.wrapper {
+	@include outer-container;
+}
+.global-header {
+	position: fixed;
+	top:0;
+	width: 100%;
+	background: rgba(255,255,255,.9);
+	border-bottom: 1px solid rgb(187,187,187);
+	border-top: 5px solid rgb(70,70,70);
+	z-index: $zIndex-8;
+}
+.global-header-ghost {
+	height:85px;
+}
+.global-header .logo {
+	display: inline-block;
+	float: left;
+	background: rgb(70,70,70);
+	padding: 16px;
+	line-height: 20px;
+}
+.global-nav {
+	display: block;
+	@include media($mobile) {
+		display: none;
+	}
+}
+.nav-anim {
+	@include transition-property (all);
+	@include transition-duration(0.5s);
+	@include transition-timing-function(cubic-bezier);
+	@include transition-delay(.42,0,.58,1);
+}
+.global-nav ul {
+	text-align: right;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.global-nav li {
+	display: inline-block;
+	margin: 0;
+	text-transform: uppercase;
+}
+.global-nav a {
+	display: block;
+	color: rgba(150,150,150,1);
+	text-decoration: none;
+	font-size: $fontSize-small;
+	padding: 25px 8px;
+	max-height: 76px;
+	
+	&:hover {
+		background: $color-blue;
+		color: $color-white;
+	}
+}
+.global-nav--mobileBtn {
+	display: none;
+	padding: 22px 16px;
+	cursor: pointer;
+	@include media($mobile) {
+		display: block;
+	}
+}
+.global-nav--mobile {
+	position: fixed;
+	top: -320px;
+	width: 100%;
+	z-index: $zIndex-8;
+	background-color: rgba($color-dark-gray,.95);
+}
+.global-nav--mobile ul {
+	padding: 10px 0;
+}
+.global-nav--mobile a {
+	display: block;
+	color: $color-white;
+	padding: 12px 24px;
+	
+	&:hover {
+		background: $color-blue;
+	}
+}
+.global-nav--mobile.is-open {
+	-webkit-transform: translate3d(0,401px,0);
+	transform: translate3d(0,401px,0);
+}
+.logoRules {
+	@include outer-container(100%);
+}
+.row {
+  @include row();
+}
+.left {
+  @include span-columns(3);
+}
+.right {
+  @include span-columns(5);
+  @include omega;
+}
+.typography-samples {
+	@include outer-container;
+	font-family: "MuseoSansRounded";
+	h1,h2,h3,h4,h5 {
+  	font-family: "MuseoSansRounded";
+	}
+}
+.sampleBox {
+	padding: $lineHeight-base;
+	background: $color-white;
+	border: 1px solid $color-gray;
+}
+.typography-samples .block {
+	@include span-columns(2);
+	@include omega(4n);
+	@include media($mobile) {
+		@include span-columns(1);
+		@include omega(2n);
+	}
+}
+h1.tooDamnBig {
+  font-size: $fontSize-tooDamnBig;
+}
+.sampleBox--fontLight * {
+	font-weight: 100;
+	margin: 0;
+}
+.sampleBox--fontNormal * {
+	font-weight: 300;
+	margin: 0;
+}
+.sampleBox--fontBold * {
+	font-weight: 700;
+	margin: 0;
+}
+.sampleBox--fontBlack * {
+	font-weight: 900;
+	margin: 0;
+}
+.fontSample {
+	line-height: $lineHeight-base;
+}
+h5.fontSample {
+	margin-top: $lineHeight-base;
+	margin-bottom: 0;
+}
+p.fontSample {
+	margin-top: 0;
+	margin-bottom: $lineHeight-base;
+}
+.fontSample--smallest {
+	font-size: $fontSize-smallest;
+}
+.fontSample--smaller {
+	font-size: $fontSize-smaller;
+}
+.fontSample--small {
+	font-size: $fontSize-small;
+}
+.fontSample--normal {
+	font-size: $fontSize-base;
+}
+.fontSample--large {
+	font-size: $fontSize-large;
+}
+.fontSample--larger {
+	font-size: $fontSize-larger;
+}
+.fontSample--largest {
+	font-size: $fontSize-largest;
+}
+.site-footer {
+	font-size: $fontSize-smaller;
+	line-height: $lineHeight-tight;
+}
+.colors {
+	@include outer-container;
+}
+.colors .block {
+	@include span-columns(2);
+	@include omega(4n);
+	margin-bottom: 1em;
+	@include media($mobile) {
+		@include span-columns(1);
+		@include omega(2n);
+	}
+}
+.colors .block--alt {
+	@include span-columns(1);
+	@include omega(8n);
+	@include media($mobile) {
+		@include span-columns(1);
+		@include omega(2n);
+	}
+}
+.colors-preview {
+	height: $lineHeight-base * 6;
+	@include media($mobile) {
+		height: 120px;
+	}
+}
+.block--alt .colors-preview {
+	height: $lineHeight-base * 3;
+	@include media($mobile) {
+		height: 120px;
+	}
+}
+.colors-name {
+	font-size: $fontSize-smaller;
+	line-height: $lineHeight-tight;
+	padding: $lineHeight-base / 4;
+	text-align: center;
+	background-color: #fff;
+	width: 100%;
+	text-transform: uppercase;
+	span {
+  	display: block;
+	}
+}
+.colors--dark-green {
+	background: $color-dark-green;
+}
+.colors--grey-green {
+	background: $color-grey-green;
+}
+.colors--dark-gray {
+	background: $color-dark-gray;
+}
+.colors--gray {
+	background: $color-gray;
+}
+.colors--medium-gray {
+	background: $color-medium-gray;
+}
+.colors--green {
+	background: $color-green;
+}
+.colors--light-green {
+	background: $color-light-green;
+}
+.colors--neon-green {
+	background: $color-neon-green;
+}
+.colors--blue {
+	background: $color-blue;
+}
+.colors--red {
+	background: $color-red;
+}
+.colors--orange {
+	background: $color-orange;
+}
+.colors--purple {
+	background: $color-purple;
+}
+.colors--yellow {
+	background: $color-yellow;
+}
+.colors--white {
+	background: white;
+}
+.gradient--green {
+  @include brand-gradient(green);
+}
+.gradient--blue {
+  @include brand-gradient(blue);
+}
+.gradient--orange {
+  @include brand-gradient(orange);
+}
+.gradient--grey {
+  @include brand-gradient(grey);
+}
+.gradient--purple {
+  @include brand-gradient(purple);
+}
+

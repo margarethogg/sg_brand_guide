@@ -1,0 +1,17 @@
+# Site settings
+title: Shiftgig Design
+email: design@shiftgig.com
+description: > # this means to ignore newlines until "baseurl:"
+  Front-end coding standards, pattern library, and branding guidelines
+  for Shiftgig.com and its applications. Crafted with care by the Shiftgig Design Team.
+baseurl: "" # the subpath
+url: "http://design.shiftgig.com" # the base hostname & protocol
+twitter_username: shiftgig
+github_username:  sgrepo
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: expanded

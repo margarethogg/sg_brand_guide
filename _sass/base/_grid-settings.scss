@@ -1,0 +1,18 @@
+@import "neat/neat-helpers";
+
+// Neat Overrides
+$column: 75px;
+$gutter: 24px;
+$grid-columns: 8;
+$max-width: 768px;
+
+
+// Breakpoints
+$small-screen: em(321);
+$medium-screen: em(769);
+$large-screen: em(960);
+
+$mobile: new-breakpoint(max-width 480px 2); /* deign.shifitgig ONLY */ 
+$small-screen-down: new-breakpoint(max-width $small-screen);
+$medium-screen-up: new-breakpoint(min-width $medium-screen);
+$large-screen-up: new-breakpoint(min-width $large-screen);
