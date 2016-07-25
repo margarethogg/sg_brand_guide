@@ -3,7 +3,7 @@
         "styles-sass"
     ],
     "styles": {
-        "website": "./css/main.scss"
+        "gitbook": "./css/main.scss"
     }
     "pluginsConfig": {}
 }
