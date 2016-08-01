@@ -109,16 +109,6 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 	</li>
 </ul>
 
-##Grayscale Palette
-
-&#35;000000
-&#35;333333
-&#35;666666
-&#35;999999
-&#35;CCCCCC
-&#35;E6E6E6
-&#35;F2F2F2
-
 #Gradients
 
 Our color palette includes gradients for our five primary brand colors. Gradients are best used as background color fields to support hero imagery. These gradients should not be used in illustration, on buttons, or behind large blocks of text.
