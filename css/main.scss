@@ -55,7 +55,7 @@ $font-bold: 'MuseoSansRounded-700';
 $font-black: 'MuseoSansRounded-900';
 
 body {
-	font-family: "Helvetica Neue", Helvetica, sans-serif;
+	font-family: "MuseoSansRounded", "Helvetica Neue", Helvetica, sans-serif;
 	font-weight: 300;
 	font-size: $fontSize-base;
 	line-hieght: $lineHeight-base;
@@ -63,7 +63,7 @@ body {
 	background: $color-light-gray;
 }
 h1,h2,h3,h4,h5 {
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "MuseoSansRounded", "Helvetica Neue", Helvetica, sans-serif;
 }
 body.grid {
 	@include background-image(linear-gradient(to bottom, rgba(0,0,0,.15) 0, transparent 5%, transparent 100%));
