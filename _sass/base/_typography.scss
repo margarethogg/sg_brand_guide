@@ -5,11 +5,11 @@
 @include font-face("MuseoSans", "/tmp/book/fonts/museosans/MuseoSans-700", 700);
 @include font-face("MuseoSans", "/tmp/book/fonts/museosans/MuseoSans-900", 900);
 
-@include font-face("MuseoSansRounded", "/tmp/book/fonts/MuseoSansRounded/MuseoSansRounded-100", 100);
-@include font-face("MuseoSansRounded", "/tmp/book/fonts/MuseoSansRounded/MuseoSansRounded-300", 300);
-@include font-face("MuseoSansRounded", "/tmp/book/fonts/MuseoSansRounded/MuseoSansRounded-500", 500);
+@include font-face("MuseoSansRounded", "fonts/MuseoSansRounded/MuseoSansRounded-100", 100);
+@include font-face("MuseoSansRounded", "/fonts/MuseoSansRounded/MuseoSansRounded-300", 300);
+@include font-face("MuseoSansRounded", "/book/fonts/MuseoSansRounded/MuseoSansRounded-500", 500);
 @include font-face("MuseoSansRounded", "/tmp/book/fonts/MuseoSansRounded/MuseoSansRounded-700", 700);
-@include font-face("MuseoSansRounded", "/tmp/book/fonts/MuseoSansRounded/MuseoSansRounded-900", 900);
+@include font-face("MuseoSansRounded", "../fonts/MuseoSansRounded/MuseoSansRounded-900", 900);
 
 
 // Typography Defaults
