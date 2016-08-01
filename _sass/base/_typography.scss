@@ -1,15 +1,15 @@
 // Typefaces
-@include font-face("MuseoSans", "../fonts/MuseoSans-100", 100);
-@include font-face("MuseoSans", "../fonts/MuseoSans-300", 300);
-@include font-face("MuseoSans", "../fonts/MuseoSans-500", 500);
-@include font-face("MuseoSans", "../fonts/MuseoSans-700", 700);
-@include font-face("MuseoSans", "../fonts/MuseoSans-900", 900);
+@include font-face("MuseoSans", "/tmp/book/fonts/MuseoSans-100", 100);
+@include font-face("MuseoSans", "/tmp/book/fonts/MuseoSans-300", 300);
+@include font-face("MuseoSans", "/tmp/book/fonts/MuseoSans-500", 500);
+@include font-face("MuseoSans", "/tmp/book/fonts/MuseoSans-700", 700);
+@include font-face("MuseoSans", "/tmp/book/fonts/MuseoSans-900", 900);
 
-@include font-face("MuseoSansRounded", "../fonts/MuseoSansRounded-100", 100);
-@include font-face("MuseoSansRounded", "../fonts/MuseoSansRounded-300", 300);
-@include font-face("MuseoSansRounded", "../fonts/MuseoSansRounded-500", 500);
-@include font-face("MuseoSansRounded", "../fonts/MuseoSansRounded-700", 700);
-@include font-face("MuseoSansRounded", "../fonts/MuseoSansRounded-900", 900);
+@include font-face("MuseoSansRounded", "/tmp/book/fonts/MuseoSansRounded-100", 100);
+@include font-face("MuseoSansRounded", "/tmp/book/fonts/MuseoSansRounded-300", 300);
+@include font-face("MuseoSansRounded", "/tmp/book/fonts/MuseoSansRounded-500", 500);
+@include font-face("MuseoSansRounded", "/tmp/book/fonts/MuseoSansRounded-700", 700);
+@include font-face("MuseoSansRounded", "/tmp/book/fonts/MuseoSansRounded-900", 900);
 
 
 // Typography Defaults
