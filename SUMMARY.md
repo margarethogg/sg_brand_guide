@@ -8,7 +8,6 @@
    * [Photography](brand_guidelines/05_photography.md)
    * [Iconography](brand_guidelines/06_iconography.md)
    * [Illustration](brand_guidelines/07_illustration.md)
-   * Br
 * [Digital Components](digital_components/01_digital_components.md)
    * [Buttons](digital_components/02_buttons.md)
    * [Forms](digital_components/03_forms.md)
