@@ -13,10 +13,9 @@
 
 ##Secondary Buttons
  <button class="btn btn--hollow">.btn--hollow</button>
+ <button class="btn btn--hollow">.btn--hollow</button>
+ <button class="btn btn--hollow">.btn--hollow</button>
  <button class="btn btn--hollowOnDark">.btn--hollowOnDark</button>
- <button class="btn btn--large">.btn--large</button>
- <button class="btn btn--small">.btn--small</button>
- <button class="btn btn--link">.btn--link</button>
 
 ##Button Color Language
 
