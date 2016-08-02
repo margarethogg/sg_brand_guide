@@ -3,6 +3,7 @@
 For versatility, we've included several weights for each of our font families. Body copy should remain at the default 300 (Regular) weight unless emphasis is needed. Buttons are always 700 (bold). Headlines will typically use the 100 (light) or 900 (black) weights.
 
 
+<article>
 <ul>
 	<li class="sampleBox block">
 		  <div class="sampleBox--fontLight">
@@ -29,6 +30,7 @@ For versatility, we've included several weights for each of our font families. B
 		  </div>
 	</li>
 </ul>
+</article>
 
 Shiftgig Black should be used on light backgrounds as the default color for all text in web and mobile applications. When text is used over dark backgrounds, color fields, and images, white should be used. Always make sure to maintain legibility of fonts used against dark and textured backgrounds, and use a heavier weight if needed.
 
@@ -96,7 +98,7 @@ Well structured typography has been established to provide good visual hierarchy
 
 ##Leading
 Proper leading improves legibility, allowing words to breathe on a page or screen. For body text we maintain a leading aspect of 1.6% over our type size to give our text an open, airy feel and optimize legibility for screen reading. Refer to the chart below for common font and leading sizes.
-    
+
 ####28px/
 <p class="fontSample fontSample--larger">Wavy Jake's fat zebra had Mexican pig liqour.</p>
 
@@ -114,10 +116,11 @@ Proper leading improves legibility, allowing words to breathe on a page or scree
 
 ####12px/
 <p class="fontSample fontSample--smallest">Grumpy wizards make toxic brew for the evil Queen and Jack.</p>
-  	
+
+<article>
 <h1 class="tooDamnBig">I Watched This and Nearly Cried</h1>
 <h1>You Won't Believe This One Weird Trick for a Flat Belly!</h1>
 <h2>If You Can Watch This And Not Feel Disgusted, Then You're Made Of Stone</h2>
 <h3>This What Happens When a Golden Retriever Won't Take No for an Answer</h3>
 <h4>Try Not to Roll Your Eyes When You Hear the Last Sentence</h4>
-
+</article>
