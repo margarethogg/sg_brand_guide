@@ -2,7 +2,7 @@
 
 For versatility, we've included several weights for each of our font families. Body copy should remain at the default 300 (Regular) weight unless emphasis is needed. Buttons are always 700 (bold). Headlines will typically use the 100 (light) or 900 (black) weights.
 
-
+<section>
 <article class="typography-samples u-textCenter">
 <ul>
 	<li class="sampleBox block">
@@ -31,6 +31,7 @@ For versatility, we've included several weights for each of our font families. B
 	</li>
 </ul>
 </article>
+</section>
 
 Shiftgig Black should be used on light backgrounds as the default color for all text in web and mobile applications. When text is used over dark backgrounds, color fields, and images, white should be used. Always make sure to maintain legibility of fonts used against dark and textured backgrounds, and use a heavier weight if needed.
 
