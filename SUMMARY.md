@@ -14,8 +14,8 @@
    * [Color Fields and Patterns](color_fields_and_patterns.md)
 * [Code Standards](code_standards.md)
 * Resources
-* [03 / Color](03__color.md)
 * [Brand Guides](brand_guides.md)
    * [02 / Shiftgig Logo](02__shiftgig_logo.md)
+   * [03 / Color](03__color.md)
    * Br
 
