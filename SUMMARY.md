@@ -16,4 +16,5 @@
    * [Color Fields and Patterns](color_fields_and_patterns.md)
 * [Code Standards](code_standards.md)
 * Resources
+* Brand Guides
 
