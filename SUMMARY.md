@@ -1,6 +1,6 @@
 # Summary
 
-* [00 / Introduction](README.md)
+* [Introduction](README.md)
 * [01 / Design Principles](01__design_principles.md)
 * [Brand Guides](brand_guides.md)
    * [02 / Shiftgig Logo](02__shiftgig_logo.md)
