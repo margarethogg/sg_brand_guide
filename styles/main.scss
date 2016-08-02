@@ -50,9 +50,11 @@
 
 /* Font Stacks */
 $font-default: 'MuseoSansRounded', Helvetica, sans-serif;
-$font-thin: 'MuseoSansRounded-100';
-$font-bold: 'MuseoSansRounded-700';
-$font-black: 'MuseoSansRounded-900';
+$font-light: '100';
+$font-regular: '300';
+$font-medium: '500';
+$font-bold: '700';
+$font-black: '900';
 
 body {
 	font-family: "MuseoSansRounded", "Helvetica Neue", Helvetica, sans-serif;
@@ -250,6 +252,36 @@ p.fontSample {
 .fontSample--largest {
 	font-size: $fontSize-largest;
 }
+
+.fontSample--light {
+	font-weight: $fontSize-largest;
+}
+.fontSample--regular {
+	font-weight: $fontSize-largest;
+}
+.fontSample--medium {
+	font-weight: $fontSize-largest;
+}
+.fontSample--bold {
+	font-weight: $fontSize-largest;
+}
+.fontSample--black {
+	font-weight: $fontSize-largest;
+}
+
+.fontSample--museoSans {
+	font-size: $fontSize-largest;
+}
+.fontSample--museoRounded {
+	font-size: $fontSize-largest;
+}
+.fontSample--roboto {
+	font-size: $fontSize-largest;
+}
+.fontSample--sfUI {
+	font-size: $fontSize-largest;
+}
+
 .site-footer {
 	font-size: $fontSize-smaller;
 	line-height: $lineHeight-tight;
