@@ -3,6 +3,6 @@
         "styles-sass"
     ],
     "styles": {
-        "website": "./css/main.scss"
+        "website": "./styles/main.scss"
     }
 }
