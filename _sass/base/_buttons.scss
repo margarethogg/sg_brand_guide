@@ -1,5 +1,7 @@
 button,
-input[type="submit"],
+input[type="submit"] {
+	/* Bases unstyled for sake of Gitbook */
+}
 .btn {
 	@extend %button;
 	@include appearance(none);
@@ -7,7 +9,6 @@ input[type="submit"],
 	user-select: none;
 	vertical-align: middle;
 }
-
 .btn--alt {
 	background: $color-green;
 	/*box-shadow: inset 0 -2px darken($color-light-green, 25%);*/
