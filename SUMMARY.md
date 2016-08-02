@@ -17,5 +17,5 @@
 * Resources
 * [02 / Shiftgig Logo](02__shiftgig_logo.md)
 * Brand Guides
-   * 
+   * Br
 
