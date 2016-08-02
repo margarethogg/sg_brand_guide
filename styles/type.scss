@@ -40,42 +40,7 @@
 
 /* Roboto */
 
-@font-face {
-	font-family: 'Roboto-light';
-	src: url('fonts/Roboto/Roboto-Thin.eot');
-	src: url('fonts/Roboto/Roboto-Thin?#iefix') format('embedded-opentype'),
-		 url('fonts/Roboto/Roboto-Thin.woff') format('woff'),
-		 url('fonts/Roboto/Roboto-Thin.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'Roboto-regular';
-	src: url('fonts/Roboto/Roboto-Regular.eot');
-	src: url('fonts/Roboto/Roboto-Regular?#iefix') format('embedded-opentype'),
-		 url('fonts/Roboto/Roboto-Regular.woff') format('woff'),
-		 url('fonts/Roboto/Roboto-Regular.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Roboto-medium';
-	src: url('fonts/Roboto/Roboto-Medium.eot');
-	src: url('fonts/Roboto/Roboto-Medium?#iefix') format('embedded-opentype'),
-		 url('fonts/Roboto/Roboto-Medium.woff') format('woff'),
-		 url('fonts/Roboto/Roboto-Medium.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Roboto-bold';
-	src: url('fonts/Roboto/Roboto-Bold.eot');
-	src: url('fonts/Roboto/Roboto-Bold?#iefix') format('embedded-opentype'),
-		 url('fonts/Roboto/Roboto-Bold') format('woff'),
-		 url('fonts/Roboto/Roboto-Bold') format('truetype');
-}
-@font-face {
-	font-family: 'Roboto-black';
-	src: url('fonts/Roboto/Roboto-Black.eot');
-	src: url('fonts/Roboto/Roboto-Black?#iefix') format('embedded-opentype'),
-		 url('fonts/Roboto/Roboto-Black.woff') format('woff'),
-		 url('fonts/Roboto/Roboto-Black.ttf') format('truetype');
-}
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 
 /* San Francisco UI */
 
