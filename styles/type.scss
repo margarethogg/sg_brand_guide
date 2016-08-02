@@ -80,37 +80,27 @@
 /* San Francisco UI */
 
 @font-face {
-	font-family: 'SanFranciscoUI-light';
-	src: url('fonts/SF-UI/SF-UI-Display-Thin.eot');
-	src: url('fonts/SF-UI/SF-UI-Display-Thin?#iefix') format('embedded-opentype'),
-		 url('fonts/SF-UI/SF-UI-Display-Thin.woff') format('woff'),
-		 url('fonts/SF-UI/SF-UI-Display-Thin.ttf') format('truetype');
+  font-family: "San Francisco";
+  font-weight: 100;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff");
 }
 @font-face {
-	font-family: 'SanFranciscoUI-regular';
-	src: url('fonts/SF-UI/SF-UI-Display-Regular.eot');
-	src: url('fonts/SF-UI/SF-UI-Display-Regular?#iefix') format('embedded-opentype'),
-		 url('fonts/SF-UI/SF-UI-Display-Regular.woff') format('woff'),
-		 url('fonts/SF-UI/SF-UI-Display-Regular.ttf') format('truetype');
+  font-family: "San Francisco";
+  font-weight: 300;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
 }
 @font-face {
-	font-family: 'SanFranciscoUI-medium';
-	src: url('fonts/SF-UI/SF-UI-Display-Medium.eot');
-	src: url('fonts/SF-UI/SF-UI-Display-Medium?#iefix') format('embedded-opentype'),
-		 url('fonts/SF-UI/SF-UI-Display-Medium.woff') format('woff'),
-		 url('fonts/SF-UI/SF-UI-Display-Medium.ttf') format('truetype');
+  font-family: "San Francisco";
+  font-weight: 500;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.woff");
 }
 @font-face {
-	font-family: 'SanFranciscoUI-bold';
-	src: url('fonts/SF-UI/SF-UI-Display-Bold.eot');
-	src: url('fonts/SF-UI/SF-UI-Display-Bold?#iefix') format('embedded-opentype'),
-		 url('fonts/SF-UI/SF-UI-Display-Bold') format('woff'),
-		 url('fonts/SF-UI/SF-UI-Display-Bold') format('truetype');
+  font-family: "San Francisco";
+  font-weight: 700;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff");
 }
 @font-face {
-	font-family: 'SanFranciscoUI-black';
-	src: url('fonts/SF-UI/SF-UI-Display-Black.eot');
-	src: url('fonts/SF-UI/SF-UI-Display-Black?#iefix') format('embedded-opentype'),
-		 url('fonts/SF-UI/SF-UI-Display-Black.woff') format('woff'),
-		 url('fonts/SF-UI/SF-UI-Display-Black.ttf') format('truetype');
+  font-family: "San Francisco";
+  font-weight: 900;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-black-webfont.woff");
 }
