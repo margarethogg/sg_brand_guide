@@ -8,7 +8,6 @@
 ##Primary Buttons
  <button class="btn btn--primary">.btn</button>
  <button class="btn btn--alt">.btn--alt</button>
- <button class="btn btn--update">.btn--update</button>
  <button class="btn btn--remove">.btn--remove</button>
  <button class="btn btn--disabled">.btn--disabled</button>
 
@@ -20,6 +19,8 @@
  <button class="btn btn--link">.btn--link</button>
 
 ##Button Color Language
+
+ <button class="btn btn--update">.btn--update</button>
 
 ##Button Hierarchy
 
