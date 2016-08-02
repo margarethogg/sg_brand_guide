@@ -16,6 +16,6 @@
 * [Code Standards](code_standards.md)
 * Resources
 * [02 / Shiftgig Logo](02__shiftgig_logo.md)
-* Brand Guides
+* [Brand Guides](brand_guides.md)
    * Br
 
