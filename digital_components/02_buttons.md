@@ -2,11 +2,11 @@
 
 ##Button Sizes
  <button class="btn btn--large">.btn--large</button>
- <button class="btn">.btn</button>
+ <button class="btn btn--primary">.btn</button>
  <button class="btn btn--small">.btn--small</button>
 
 ##Primary Buttons
- <button class="btn">.btn</button>
+ <button class="btn btn--primary">.btn</button>
  <button class="btn btn--alt">.btn--alt</button>
  <button class="btn btn--update">.btn--update</button>
  <button class="btn btn--remove">.btn--remove</button>
