@@ -1,4 +1,4 @@
-#01 / DESIGN PRINCIPLES
+#DESIGN PRINCIPLES
 
 
 ###Contemporary
