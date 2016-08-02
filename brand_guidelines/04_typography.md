@@ -40,57 +40,57 @@ Shiftgig Black should be used on light backgrounds as the default color for all 
 Museo Sans Rounded is our font of choice for all Shiftig web and print applications. It is a geometric, open, and casual font. 
 
 ####Museo Sans Rounded 100
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--museoRoundedLight">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ####Museo Sans Rounded 300
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--museoRoundedRegular">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ####Museo Sans Rounded 500
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--museoRoundedMedium">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ####Museo Sans Rounded 700
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--museoRoundedBold">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ####Museo Sans Rounded 900
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--museoRoundedBlack">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ##Roboto Type Family
 
 As an alternate to Museo Sans Rounded, the Roboto Family is used for our Android apps. It features an extensive family of weights and is an ideally suited to small screens. Read more about Roboto at the [Material Design Guide](https://material.google.com/style/typography.html#).
 
 ####Roboto Light
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--robotoLight">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ####Roboto Regular
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--robotoRegular">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ####Roboto Medium
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--robotoMedium">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ####Roboto Bold
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--robotoBold">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ####Roboto Black
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--robotoBlack">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ##SF UI Type Family
 
 We use the San Francisco UI font family for all our iOS applications. SF UI is iOS's system font, and optimized for use on iPhones and iPads. Learn more about the SF UI font family in the [iOS Design Guide](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/)
 
 ####SF UI Light
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--sfLight">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ####SF UI Regular
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--sfRegular">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ####SF UI Medium
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--sfMedium">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ####SF UI Bold
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--sfBold">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 ####SF UI Black
-<p class="fontSample fontSample--normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+<p class="fontSample fontSample--sfBlack">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 
 #Type Rules
 
