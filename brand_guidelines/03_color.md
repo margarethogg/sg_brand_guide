@@ -3,7 +3,7 @@
 We've chosen a soft and bright palette that makes us unique in our industry. Service & hospitality jobs rely on personality to be successful. We want to echo that in our products.
 
 ##Brand Colors
-<section>
+<section class="colors">
 <article>
 <ul>
 	<li class="block">
@@ -34,7 +34,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 </article>
 </section>
 ##Supporting Colors
-<section>
+<section class="colors">
 <article>
 <ul>
 	<li class="block">
@@ -116,7 +116,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 #Gradients
 
 Our color palette includes gradients for our five primary brand colors. Gradients are best used as background color fields to support hero imagery. These gradients should not be used in illustration, on buttons, or behind large blocks of text.
-<section>
+<section class="colors">
 <article>
 <ul>
 	<li class="block">
