@@ -3,7 +3,7 @@
 For versatility, we've included several weights for each of our font families. Body copy should remain at the default 300 (Regular) weight unless emphasis is needed. Buttons are always 700 (bold). Headlines will typically use the 100 (light) or 900 (black) weights.
 
 <section>
-<article class="typography-samples">
+<article class="typography-samples u--text-center">
 <ul>
 	<li class="sampleBox block">
 		  <div class="sampleBox--fontLight">
