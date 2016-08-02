@@ -3,7 +3,7 @@
 For versatility, we've included several weights for each of our font families. Body copy should remain at the default 300 (Regular) weight unless emphasis is needed. Buttons are always 700 (bold). Headlines will typically use the 100 (light) or 900 (black) weights.
 
 <section>
-<article class="typography-samples u-textCenter">
+<article class="typography-samples">
 <ul>
 	<li class="sampleBox block">
 		  <div class="sampleBox--fontLight">
@@ -100,24 +100,28 @@ Well structured typography has been established to provide good visual hierarchy
 ##Leading
 Proper leading improves legibility, allowing words to breathe on a page or screen. For body text we maintain a leading aspect of 1.6% over our type size to give our text an open, airy feel and optimize legibility for screen reading. Refer to the chart below for common font and leading sizes.
 
-####28px/
+<section>
+<h4>28px/</h4>
 <p class="fontSample fontSample--larger">Wavy Jake's fat zebra had Mexican pig liqour.</p>
 
-####22px/
+<h4>22px/</h4>
 <p class="fontSample fontSample--large">The sex life of a woodchuck is a provocative question for most vertebrate zoology majors.</p>
 
-####18px/ (Default)
+<h4>18px/ (Default)</h4>
 <p class="fontSample fontSample--normal">Wacky pangram quiz flummoxed Steve Jobs.</p>
   
-####16px/
+<h4>16px/</h4>
 <p class="fontSample fontSample--small">Quip-crazy Gorbachev went and mixed flapjacks.</p>
 
-####14px/
+<h4>14px/</h4>
 <p class="fontSample fontSample--smaller">The quick brown fox jumps over the lazy dog.</p>
 
-####12px/
+<h4>12px/</h4>
 <p class="fontSample fontSample--smallest">Grumpy wizards make toxic brew for the evil Queen and Jack.</p>
+</article>
+</section>
 
+<section>
 <article>
 <h1 class="tooDamnBig">I Watched This and Nearly Cried</h1>
 <h1>You Won't Believe This One Weird Trick for a Flat Belly!</h1>
@@ -125,3 +129,5 @@ Proper leading improves legibility, allowing words to breathe on a page or scree
 <h3>This What Happens When a Golden Retriever Won't Take No for an Answer</h3>
 <h4>Try Not to Roll Your Eyes When You Hear the Last Sentence</h4>
 </article>
+
+</section>
