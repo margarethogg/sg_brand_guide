@@ -17,7 +17,6 @@
 		 url('fonts/MuseoSansRounded/MuseoSansRounded-100.woff') format('woff'),
 		 url('fonts/MuseoSansRounded/MuseoSansRounded-100.ttf') format('truetype');
 }
-
 @font-face {
 	font-family: 'MuseoSansRounded-300';
 	src: url('fonts/MuseoSansRounded/MuseoSansRounded-300.eot');
@@ -25,7 +24,6 @@
 		 url('fonts/MuseoSansRounded/MuseoSansRounded-300.woff') format('woff'),
 		 url('fonts/MuseoSansRounded/MuseoSansRounded-300.ttf') format('truetype');
 }
-  
 @font-face {
 	font-family: 'MuseoSansRounded-500';
 	src: url('fonts/MuseoSansRounded/MuseoSansRounded-500.eot');
@@ -33,7 +31,6 @@
 		 url('fonts/MuseoSansRounded/MuseoSansRounded-500.woff') format('woff'),
 		 url('fonts/MuseoSansRounded/MuseoSansRounded-500.ttf') format('truetype');
 }
-  
 @font-face {
 	font-family: 'MuseoSansRounded-700';
 	src: url('fonts/MuseoSansRounded/MuseoSansRounded-700.eot');
@@ -41,7 +38,6 @@
 		 url('fonts/MuseoSansRounded/MuseoSansRounded-700') format('woff'),
 		 url('fonts/MuseoSansRounded/MuseoSansRounded-700') format('truetype');
 }
-
 @font-face {
 	font-family: 'MuseoSansRounded-900';
 	src: url('fonts/MuseoSansRounded/MuseoSansRounded-900.eot');
@@ -62,34 +58,31 @@
 
 @font-face {
 	font-family: 'Roboto-regular';
-	src: url('fonts/Roboto/Roboto-300.eot');
-	src: url('fonts/Roboto/Roboto-300?#iefix') format('embedded-opentype'),
-		 url('fonts/Roboto/Roboto-300.woff') format('woff'),
-		 url('fonts/Roboto/Roboto-300.ttf') format('truetype');
+	src: url('fonts/Roboto/Roboto-Regular.eot');
+	src: url('fonts/Roboto/Roboto-Regular?#iefix') format('embedded-opentype'),
+		 url('fonts/Roboto/Roboto-Regular.woff') format('woff'),
+		 url('fonts/Roboto/Roboto-Regular.ttf') format('truetype');
 }
-  
 @font-face {
 	font-family: 'Roboto-medium';
-	src: url('fonts/Roboto/Roboto-500.eot');
-	src: url('fonts/Roboto/Roboto-500?#iefix') format('embedded-opentype'),
-		 url('fonts/Roboto/Roboto-500.woff') format('woff'),
-		 url('fonts/Roboto/Roboto-500.ttf') format('truetype');
+	src: url('fonts/Roboto/Roboto-Medium.eot');
+	src: url('fonts/Roboto/Roboto-Medium?#iefix') format('embedded-opentype'),
+		 url('fonts/Roboto/Roboto-Medium.woff') format('woff'),
+		 url('fonts/Roboto/Roboto-Medium.ttf') format('truetype');
 }
-  
 @font-face {
 	font-family: 'Roboto-bold';
-	src: url('fonts/Roboto/Roboto-700.eot');
-	src: url('fonts/Roboto/Roboto-700?#iefix') format('embedded-opentype'),
-		 url('fonts/Roboto/Roboto-700') format('woff'),
-		 url('fonts/Roboto/Roboto-700') format('truetype');
+	src: url('fonts/Roboto/Roboto-Bold.eot');
+	src: url('fonts/Roboto/Roboto-Bold?#iefix') format('embedded-opentype'),
+		 url('fonts/Roboto/Roboto-Bold') format('woff'),
+		 url('fonts/Roboto/Roboto-Bold') format('truetype');
 }
-
 @font-face {
 	font-family: 'Roboto-black';
-	src: url('fonts/Roboto/Roboto-900.eot');
-	src: url('fonts/Roboto/Roboto-900?#iefix') format('embedded-opentype'),
-		 url('fonts/Roboto/Roboto-900.woff') format('woff'),
-		 url('fonts/Roboto/Roboto-900.ttf') format('truetype');
+	src: url('fonts/Roboto/Roboto-Black.eot');
+	src: url('fonts/Roboto/Roboto-Black?#iefix') format('embedded-opentype'),
+		 url('fonts/Roboto/Roboto-Black.woff') format('woff'),
+		 url('fonts/Roboto/Roboto-Black.ttf') format('truetype');
 }
 
 /* Font Stacks */
