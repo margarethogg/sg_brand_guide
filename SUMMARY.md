@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Design Principles](01__design_principles.md)
-* [Brand Guides](brand_guides.md)
+* [Brand Guidelines](brand_guides.md)
    * [02 / Shiftgig Logo](02__shiftgig_logo.md)
    * [03 / Color](03__color.md)
    * [04 / Typography](04__typography.md)
