@@ -6,7 +6,8 @@
 @import "/tmp/book/_sass/fontawesome/font-awesome";
 @import "/tmp/book/_sass/_syntax-highlighting.scss";
 
-
+/* Import Fonts */
+@import "type.scss";
 
 /* Font Stacks */
 $font-default: 'MuseoSansRounded', Helvetica, sans-serif;
