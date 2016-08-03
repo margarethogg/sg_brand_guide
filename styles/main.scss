@@ -42,6 +42,10 @@ img {
 .page-content {
 	margin: 0 10px;
 }
+.book-body { 
+    color: $color-dark-gray; 
+    background: $color-light-gray;
+}
 .wrapper {
 	@include outer-container;
 }
