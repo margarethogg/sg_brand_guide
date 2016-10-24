@@ -16,14 +16,6 @@ $lineHeight-tight: floor( modular-scale($lineHeight-base, -1, $minor-sixth) );  
 $lineHeight-loose: ceil( modular-scale($lineHeight-base, 1, $minor-sixth) );    /* 1.6 */
 $lineHeight-looser: ceil( modular-scale($lineHeight-base, 2, $minor-sixth) );   /* 2.56 */
 
-$lineHeight-smallest: ceil( $fontSize-smallest * $lineHeight-loose );
-$lineHeight-smaller: ceil( $fontSize-smaller * $lineHeight-base );
-$lineHeight-small: ceil( $fontSize-small * $lineHeight-base );
-$lineHeight-large: ceil( $fontSize-large * $lineHeight-base );
-$lineHeight-larger: ceil( $fontSize-larger * $lineHeight-tight );
-$lineHeight-largest: ceil( $fontSize-largest * $lineHeight-tight );
-$lineHeight-tooDamnBig: ceil( $fontSize-tooDamnBig * $lineHeight-tighter );
-
 /* Headings */
 $h1-line: $lineHeight-base;
 $h1-lines: 2;
