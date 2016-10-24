@@ -92,16 +92,16 @@ Proper leading improves legibility, allowing words to breathe on a page or scree
 <section class="example">
 	<article>
 		<h4>28px/</h4>
-		<p class="fontSample fontSample--larger">Wavy Jake's fat zebra had Mexican pig liqour.</p>
+		<p class="fontSample fontSample--larger">Nesciunt voluptate meditation, bespoke gastropub kinfolk blog iPhone iceland velit humblebrag sartorial incididunt actually.</p>
 		<h4>22px/</h4>
-		<p class="fontSample fontSample--large">The sex life of a woodchuck is a provocative question for most vertebrate zoology majors.</p>
+		<p class="fontSample fontSample--large">Semiotics excepteur blue bottle tousled. Brunch proident chambray vegan qui chicharrones. </p>
 		<h4>18px/ (Default)</h4>
-		<p class="fontSample fontSample--normal">Wacky pangram quiz flummoxed Steve Jobs.</p>
+		<p class="fontSample fontSample--normal">YOLO gentrify fashion axe XOXO delectus.  Mlkshk leggings pabst kombucha. Master cleanse polaroid chia actually chillwave iceland occupy roof party sartorial. </p>
 		<h4>16px/</h4>
-		<p class="fontSample fontSample--small">Quip-crazy Gorbachev went and mixed flapjacks.</p>
+		<p class="fontSample fontSample--small">Ut umami sartorial brooklyn church-key, lomo locavore meditation 90's ramps cornhole meh laboris godard. Laboris freegan organic, XOXO bushwick celiac la croix dreamcatcher austin godard tumeric swag meggings.</p>
 		<h4>14px/</h4>
-		<p class="fontSample fontSample--smaller">The quick brown fox jumps over the lazy dog.</p>
+		<p class="fontSample fontSample--smaller">Viral distillery forage coloring book gluten-free, listicle unicorn iPhone. Cardigan PBR&B vaporware chia umami. Listicle ramps chia hammock vaporware cornhole, kombucha intelligentsia hot chicken fingerstache af cardigan.</p>
 		<h4>12px/</h4>
-		<p class="fontSample fontSample--smallest">Grumpy wizards make toxic brew for the evil Queen and Jack.</p>
+		<p class="fontSample fontSample--smallest">Jianbing trust fund PBR, glossier lomo microdosing bushwick messenger bag ramps. Humblebrag artisan vice, fam hell of 8-bit vaporware af beard portland tilde polaroid celiac. Fam truffaut stumptown cliche jean shorts viral plaid, taxidermy 90's. </p>
 	</article>
 </section>
