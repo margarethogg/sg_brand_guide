@@ -8,7 +8,7 @@ $fontSize-larger: floor( modular-scale($fontSize-base, 4, $major-second) );     
 $fontSize-largest: floor( modular-scale($fontSize-base, 6, $major-second) );    /* 36px */
 $fontSize-tooDamnBig: floor( modular-scale($fontSize-base, 8, $major-second) ); /* 46px */
 
-$lineHeight-smallest: ceil( $fontSize-smallest * lineHeight-loose );
+$lineHeight-smallest: ceil( $fontSize-smallest * $lineHeight-loose );
 $lineHeight-smaller: ceil( $fontSize-smaller * $lineHeight-base );
 $lineHeight-small: ceil( $fontSize-small * $lineHeight-base );
 $lineHeight-large: ceil( $fontSize-large * $lineHeight-base );
