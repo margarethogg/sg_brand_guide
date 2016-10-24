@@ -73,20 +73,9 @@ We use the San Francisco UI font family for all our iOS applications. SF UI is t
 
 #TYPE RULES
 
-##SCALE
+##SCALE & LEADING
 Well-structured typography establishes good visual hierarchy, leading the reader across the page in accordance with the level of importance of content. It provides visual punctuation and helps readers connect headlines with content. Through disciplined use of typographic standards we create and maintain a strong and recognizable brand.
 
-<section class="example">
-    <article>
-		<h1 class="tooDamnBig">I Watched This and Nearly Cried</h1>
-		<h1>You Won't Believe This One Weird Trick for a Flat Belly!</h1>
-		<h2>If You Can Watch This And Not Feel Disgusted, Then You're Made Of Stone</h2>
-		<h3>This What Happens When a Golden Retriever Won't Take No for an Answer</h3>
-		<h4>Try Not to Roll Your Eyes When You Hear the Last Sentence</h4>
-	</article>
-</section>
-
-##LEADING
 Proper leading improves legibility, allowing words to breathe on a page or screen. For body text we maintain a leading aspect of 1.6% over our type size to give our text an open, airy feel and optimize legibility for screen reading. Refer to the chart below for common font and leading sizes.
 
 <section class="example">
