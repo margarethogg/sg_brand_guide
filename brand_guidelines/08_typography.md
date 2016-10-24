@@ -100,7 +100,7 @@ Proper leading improves legibility, allowing words to breathe on a page or scree
 		<h4>16pt/26pt</h4>
 		<p class="fontSample fontSample--small">Ut umami sartorial brooklyn church-key, lomo locavore meditation 90's ramps cornhole meh laboris godard. Laboris freegan organic, XOXO bushwick celiac la croix dreamcatcher austin godard tumeric swag meggings.</p>
 		<h4>14pt/22pt</h4>
-		<p class="fontSample fontSample--smaller">Viral distillery forage coloring book gluten-free, listicle unicorn iPhone. Cardigan PBR&B vaporware chia umami. Listicle ramps chia hammock vaporware cornhole, kombucha intelligentsia hot chicken fingerstache af cardigan.</p>
+		<p class="fontSample fontSample--smaller">Viral distillery forage coloring book gluten-free, listicle unicorn iPhone. Cardigan PBR vaporware chia umami. Listicle ramps chia hammock vaporware cornhole, kombucha intelligentsia hot chicken fingerstache af cardigan.</p>
 		<h4>12pt/19pt (Type Default)</h4>
 		<p class="fontSample fontSample--smallest">Jianbing trust fund PBR, glossier lomo microdosing bushwick messenger bag ramps. Humblebrag artisan vice, fam hell of 8-bit vaporware af beard portland tilde polaroid celiac. Fam truffaut stumptown cliche jean shorts viral plaid, taxidermy 90's. </p>
 	</article>
