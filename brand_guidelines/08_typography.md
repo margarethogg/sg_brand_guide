@@ -7,19 +7,19 @@ For versatility, we've included several weights for each of our font families. B
 		<ul>
 			<li class="sampleBox block">
 				  <div class="sampleBox--fontLight">
-				  	<h2>Aa</h2>
+				  	<h3>Aa</h3>
 				  	<p>Light</p>
 				  </div>
 			</li>
 			<li class="sampleBox block">
 				  <div class="sampleBox--fontNormal">
-				  	<h2>Aa</h2>
+				  	<h3>Aa</h3>
 				  	<p>Normal</p>
 				  </div>
 			</li>
 			<li class="sampleBox block">
 				  <div class="sampleBox--fontBold">
-				  	<h2>Aa</h2>
+				  	<h3>Aa</h3>
 				  	<p>Bold</p>
 				  </div>
 			</li>
@@ -40,11 +40,11 @@ Use Shiftgig Black on light backgrounds as the default color for all text in web
 Museo Sans Rounded is our font of choice for all Shiftig web and print applications. It is a geometric, open, and casual font. 
 
 <section class="example">
-	<p class="fontSample fontSample--large fontSample--light fontSample--museoRounded">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
-	<p class="fontSample fontSample--large fontSample--regular fontSample--museoRounded">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
-	<p class="fontSample fontSample--large fontSample--medium fontSample--museoRounded">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
-	<p class="fontSample fontSample--large fontSample--bold fontSample--museoRounded">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
-	<p class="fontSample fontSample--large fontSample--black fontSample--museoRounded">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--light fontSample--museoRounded">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--regular fontSample--museoRounded">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--medium fontSample--museoRounded">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--bold fontSample--museoRounded">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--black fontSample--museoRounded">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 </section>
 
 ##Roboto Type Family
@@ -52,11 +52,11 @@ Museo Sans Rounded is our font of choice for all Shiftig web and print applicati
 As an alternate to Museo Sans Rounded, the Roboto Family is used for our Android apps. It features an extensive family of weights and is ideally suited to small screens. Read more about Roboto at the [Material Design Guide](https://material.google.com/style/typography.html#).
 
 <section class="example">
-	<p class="fontSample fontSample--large fontSample--light fontSample--roboto">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
-	<p class="fontSample fontSample--large fontSample--regular fontSample--roboto">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
-	<p class="fontSample fontSample--large fontSample--medium fontSample--roboto">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
-	<p class="fontSample fontSample--large fontSample--bold fontSample--roboto">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
-	<p class="fontSample fontSample--large fontSample--black fontSample--roboto">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--light fontSample--roboto">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--regular fontSample--roboto">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--medium fontSample--roboto">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--bold fontSample--roboto">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--black fontSample--roboto">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 </section>
 
 ##SF UI Type Family
@@ -64,11 +64,11 @@ As an alternate to Museo Sans Rounded, the Roboto Family is used for our Android
 We use the San Francisco UI font family for all our iOS applications. SF UI is the iOS system font and optimized for use on iPhones and iPads. Learn more about the SF UI font family in the [iOS Design Guide](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
 
 <section class="example">
-	<p class="fontSample fontSample--large fontSample--light fontSample--sfUI">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
-	<p class="fontSample fontSample--large fontSample--regular fontSample--sfUI">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
-	<p class="fontSample fontSample--large fontSample--medium fontSample--sfUI">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
-	<p class="fontSample fontSample--large fontSample--bold fontSample--sfUI">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
-	<p class="fontSample fontSample--large fontSample--black fontSample--sfUI">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--light fontSample--sfUI">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--regular fontSample--sfUI">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--medium fontSample--sfUI">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--bold fontSample--sfUI">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
+	<p class="fontSample fontSample--regular fontSample--black fontSample--sfUI">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%&amp;()?”:;&lt;</p>
 </section>
 
 #TYPE RULES
