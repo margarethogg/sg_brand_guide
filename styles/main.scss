@@ -188,6 +188,9 @@ h1.tooDamnBig {
 .fontSample {
 	line-height: $lineHeight-base;
 }
+.fontSample h4 {
+	margin-bottom: 0;
+}
 h5.fontSample {
 	margin-top: $lineHeight-base;
 	margin-bottom: 0;
