@@ -6,8 +6,7 @@
 	</article>
 </section>
 
-
-We've built a library of illustrations in a style that complements our clean, contemporary, and friendly brand. Our brand voice is friendly and edgy, and our illustrations should reflect the same tone. Our use of color and visual rhythm ties our illustrations together across our entire library.
+We've built a library of illustrations in a style that complements our clean, contemporary, and friendly brand. Our use of color and visual rhythm ties our illustrations together across our entire library.
 
 ##ILLUSTRATION CREATION RULES
 
@@ -15,8 +14,8 @@ We've built a library of illustrations in a style that complements our clean, co
 
 <section class="example">
 	<article>
-		<img src="/assets/images/shiftgig_illustration_asset_earth.png">
-		<img src="">
+		<img src="/assets/images/shiftgig_illustration_asset_thumbsup.png">
+		<img src="/assets/images/shiftgig_illustration_asset_thumbsup_2.png">
 	</article>
 </section>
 
@@ -26,45 +25,34 @@ Build illustrations using simple geometric shapes combined with rounded corners.
 
 <section class="example">
 	<article>
-		<img src="">
-		<img src="">
+		<img src="/assets/images/shiftgig_illustration_asset_earth.png">
+		<img src="/assets/images/shiftgig_illustration_asset_earth_2.png">
 	</article>
 </section>
 
-Reduce illustrations to their most simple forms and universal meanings. Abstracting images makes them accessible to a wider audience. Avoid creating overly detailed, textured or photo-realistic images.
+Reduce illustrations to their most simple forms and universal meanings. Abstracting images makes them accessible to a wider audience. Larger and more complex illustrations can be further reduced into icons for use in small spaces, or where the content should be highlighted rather than the image.
 
 ###Flat
 
 <section class="example">
 	<article>
-		<img src="">
-		<img src="">
+		<img src="/assets/images/shiftgig_illustration_asset_clock.png">
+		<img src="/assets/images/shiftgig_illustration_asset_clock_2.png">
 	</article>
 </section>
 
-Our illustrations feature clean, open space, crisp edges, bright colors, and are two-dimensional. Flat design offers a more simplified, classical aesthetic. Larger, more complex illustrations can be further reduced into icons for use in small spaces, or where the content should be highlighted rather than the image.
+Our illustrations feature clean lines, open forms, crisp edges, and a lack of dimension. Flat design offers a simplified, classical aesthetic. Avoid creating overly detailed, textured or photo-realistic images.
 
 ###Bright
 
 <section class="example">
 	<article>
-		<img src="">
-		<img src="">
+		<img src="/assets/images/shiftgig_illustration_asset_.png">
+		<img src="/assets/images/shiftgig_illustration_asset_.png">
 	</article>
 </section>
 
-Our brand is bright and edgy, and our illustrations are as well. For a palette based on our brand colors, please refer to the [Resources](resources/01_resources.md) section of this guide. 
-
-###Dynamic
-
-<section class="example">
-	<article>
-		<img src="">
-		<img src="">
-	</article>
-</section>
-
-When possible, add movement to illustrations in order to add interest and catch the eye of the viewer.
+Our brand illustrations are bright but not garish. For a palette based on our brand colors, please refer to the [Resources](resources/01_resources.md) section of this guide. 
 
 ##ILLUSTRATION DOS & DON'TS
 
