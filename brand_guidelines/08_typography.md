@@ -93,7 +93,7 @@ Proper leading improves legibility, allowing words to breathe on a page or scree
 	<article>
 		<h4>28pt/42pt</h4>
 		<p class="fontSample fontSample--larger">Nesciunt voluptate meditation, bespoke gastropub kinfolk blog iPhone iceland velit humblebrag sartorial incididunt actually.</p>
-		<h4>22pt/36pt</h4>
+		<h4>22pt/34pt</h4>
 		<p class="fontSample fontSample--large">Semiotics excepteur blue bottle tousled. Brunch proident chambray vegan qui chicharrones. </p>
 		<h4>18pt/29pt (Web Default)</h4>
 		<p class="fontSample fontSample--normal">YOLO gentrify fashion axe XOXO delectus.  Mlkshk leggings pabst kombucha. Master cleanse polaroid chia actually chillwave iceland occupy roof party sartorial. </p>
