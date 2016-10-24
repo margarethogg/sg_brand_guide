@@ -1,4 +1,4 @@
-![](/assets/shiftgig_illustration_asset_clock.png)# INTRODUCTION
+# INTRODUCTION
 
 ## SHIFTGIG IS CHANGING THE WAY PEOPLE WORK.
 
