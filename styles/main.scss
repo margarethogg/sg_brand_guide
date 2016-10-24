@@ -194,19 +194,18 @@ h5.fontSample {
 }
 p.fontSample {
 	margin-top: 0;
-	margin-bottom: $lineHeight-base;
 }
 .fontSample--smallest {
 	font-size: $fontSize-smallest;
-	line-height: 1.6;
+	line-height: 1.3;
 }
 .fontSample--smaller {
 	font-size: $fontSize-smaller;
-	line-height: 1.6;
+	line-height: 1.4;
 }
 .fontSample--small {
 	font-size: $fontSize-small;
-	line-height: 1.6;
+	line-height: 1.5;
 }
 .fontSample--normal {
 	font-size: $fontSize-base;
@@ -214,15 +213,15 @@ p.fontSample {
 }
 .fontSample--large {
 	font-size: $fontSize-large;
-	line-height: 1.6;
+	line-height: 2;
 }
 .fontSample--larger {
 	font-size: $fontSize-larger;
-	line-height: 1.6;
+	line-height: 2.5;
 }
 .fontSample--largest {
 	font-size: $fontSize-largest;
-	line-height: 1.6;
+	line-height: 2.5;
 }
 
 .fontSample--light {
