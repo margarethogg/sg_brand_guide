@@ -198,24 +198,31 @@ p.fontSample {
 }
 .fontSample--smallest {
 	font-size: $fontSize-smallest;
+	line-height: $lineHeight-smallest;
 }
 .fontSample--smaller {
 	font-size: $fontSize-smaller;
+	line-height: $lineHeight-smaller;
 }
 .fontSample--small {
 	font-size: $fontSize-small;
+	line-height: $lineHeight-small;
 }
 .fontSample--normal {
 	font-size: $fontSize-base;
+	line-height: $lineHeight-base;
 }
 .fontSample--large {
 	font-size: $fontSize-large;
+	line-height: $lineHeight-large;
 }
 .fontSample--larger {
 	font-size: $fontSize-larger;
+	line-height: $lineHeight-larger;
 }
 .fontSample--largest {
 	font-size: $fontSize-largest;
+	line-height: $lineHeight-largest;
 }
 
 .fontSample--light {
