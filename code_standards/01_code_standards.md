@@ -1,18 +1,23 @@
-#Shiftgig SASS Coding Guidelines
+#SHIFTGIG CODING GUIDELINES
+##FRONT-END
+Our web applications are created using Backbone.js, SASS, and Bourbon. For coding best practices, please refer to the below sites:
+<!--get some dang links from Adam-->
 
+<!--Old ass rules by Nathan below-->
+<!--
 This guide is a living reference for our front-end best practices. View its file structure, core assets, class names, etc as a learning tool. Following these guidelines will ensure projects can be easily interpreted by any developer. Failure to follow them will be met with consequence! They're also open to evolution, suggestion and bribery. Please send all whiskey and/or energy drinks to <a href="mailto:nathan@shiftgig.com">Nathan</a>.
 
-<div class="flash-notice"><strong>There's Bourbon in our SASS!</strong><br/> Bourbon provides a wealth of handy SASS shorcuts and functions that help you write styles faster. It is encouarged that you take advantage of these where it makes sense as they'll quickly become second nature. <a href="http://bourbon.io/docs/">Checkout the docs</a>.</div>
+<div class="flash-notice"><strong>There's Bourbon in our SASS!</strong><br/> Bourbon provides a wealth of handy SASS shortcuts and functions that help you write styles faster. It is encouraged that you take advantage of these where it makes sense as they'll quickly become second nature. <a href="http://bourbon.io/docs/">Checkout the docs</a>.</div>
 
 ####Naming Conventions
-Shiftgig's naming conventions consists of structured class names and meaningful hyphens (i.e., not using hyphens merely to separate words). This is to help work around the current limits of applying CSS to the DOM (i.e., the lack of style encapsulation) and to better communicate the relationships between classes.
+Shiftgig's naming conventions consist of structured class names and meaningful hyphens (i.e., not using hyphens merely to separate words). This is to help work around the current limits of applying CSS to the DOM (i.e., the lack of style encapsulation) and to better communicate the relationships between classes.
 
 
 ####JavaScript
 
 syntax: `js-<targetName>`
 
-JavaScript-specific classes reduce the risk that changing the structure or theme of components will inadvertently affect any required JavaScript behaviour and complex functionality. It is not neccesarry to use them in every case, just think of them as a tool in your utility belt. If you are creating a class, which you dont intend to use for styling, but instead only as a selector in JavaScript, you should probably be adding the js- prefix. In practice this looks like this:
+JavaScript-specific classes reduce the risk that changing the structure or theme of components will inadvertently affect any required JavaScript behavior and complex functionality. It is not necessary to use them in every case, just think of them as a tool in your utility belt. If you are creating a class, which you don't intend to use for styling, but instead only as a selector in JavaScript, you should probably be adding the js- prefix. In practice this looks like this:
 
 `<a href="/login" class="btn btn-primary js-login"></a>`
 
@@ -60,7 +65,7 @@ Component driven development offers several benefits when reading and writing HT
 It helps to distinguish between the classes for the root of the component, descendant elements, and modifications.
 It keeps the specificity of selectors low.
 It helps to decouple presentation semantics from document semantics.
-You can think of components as custom elements that enclose specific semantics, styling, and behaviour.
+You can think of components as custom elements that enclose specific semantics, styling, and behavior.
 
 
 #####ComponentName
@@ -122,7 +127,7 @@ Syntax: `<property>-<value>[--componentName]`
 
 Variable names in our CSS are also strictly structured. This syntax provides strong associations between property, use, and component.
 
-The following variable defintion is a color property, with the value grayLight, for use with the highlightMenu component.
+The following variable definition is a color property, with the value grayLight, for use with the highlightMenu component.
 
 `$color-grayLight--highlightMenu: rgb(51, 51, 50);`
 
@@ -225,7 +230,7 @@ The following are some high level page formatting style rules.
 
 __Spacing__
 
-CSS rules should be comma seperated but live on new lines:
+CSS rules should be comma separated but live on new lines:
 
 _Right:_
 
@@ -313,4 +318,4 @@ If we want to only style specific a elements inside .user-list we can give them 
 }
 ```
 
-
+-->

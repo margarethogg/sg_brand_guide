@@ -1,25 +1,25 @@
-// Variables
+/* Variables */
 @import "variables";
 
-// Neat Settings 
+/* Neat Settings */
 @import "grid-settings";
 
-// Extends
+/* Extends */
 @import "extends/button";
 @import "extends/clearfix";
 @import "extends/errors";
 @import "extends/hide-text";
 
-//Mixins
+/* Mixins */
 @import "mixins/flash";
 @import "mixins/gradients";
 
-// Typography and Elements
+/* Typography and Elements */
 @import "typography";
 @import "forms";
 @import "tables";
 @import "lists";
 @import "buttons";
 @import "flashes";
-@import "animation";
+/* @import "animation"; */
 @import "utilities";

@@ -1,4 +1,4 @@
-//Loading Icon
+/* Loading Icon */
 @include keyframes(load) {
   50% {
     -webkit-transform: rotate(180deg);
@@ -10,7 +10,7 @@
   }
 }
 
-//Job Preview Overlay
+/* Job Preview Overlay */
 @include keyframes(enter) {
   0% {
     width: 0;
@@ -18,7 +18,7 @@
   }
 }
 
-//Appear & slide in from top
+/* Appear & slide in from top */
 @include keyframes(fadeInDown) {
   0% {
     opacity: 0;
@@ -31,7 +31,7 @@
   }
 }
 
-//Slide Down
+/* Slide Down */
 @include keyframes(slideDown) {
   0% {
     transform: translate3d(0, -100%, 0);

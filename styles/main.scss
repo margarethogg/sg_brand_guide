@@ -1,4 +1,4 @@
-// Import partials from 'sass_dir' ('_sass')
+/* Import partials from 'sass_dir' ('_sass') */
 @import "/tmp/book/_sass/bourbon/bourbon";
 @import "/tmp/book/_sass/base/grid-settings";
 @import "/tmp/book/_sass/neat/neat";
@@ -42,12 +42,12 @@ img {
 .page-content {
 	margin: 0 10px;
 }
-.book-body { 
-    color: $color-dark-gray; 
-    background: $color-light-gray;
-}
 .wrapper {
 	@include outer-container;
+}
+.book-body {
+	color: $color-dark-gray;
+	background: $color-light-gray;
 }
 .global-header {
 	position: fixed;
@@ -82,9 +82,7 @@ img {
 }
 .global-nav ul {
 	text-align: right;
-	list-style: none;
-	margin: 0;
-	padding: 0;
+	list-style: disc;
 }
 .global-nav li {
 	display: inline-block;
@@ -250,6 +248,14 @@ p.fontSample {
 	font-size: $fontSize-smaller;
 	line-height: $lineHeight-tight;
 }
+.markdown-section ol, .markdown-section ul {
+	padding-left: 0em;
+}
+section.example {
+	@include outer-container;
+	border: 1px solid $color-gray;
+	@include pad(30px 30px 0px 30px);
+}
 .colors {
 	@include outer-container;
 }
@@ -355,3 +361,7 @@ p.fontSample {
   @include brand-gradient(purple);
 }
 
+.markdown-section ol, .markdown-section ul {
+    padding-left: 2em;
+
+}
