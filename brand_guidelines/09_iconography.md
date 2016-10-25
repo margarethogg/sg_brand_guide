@@ -1,5 +1,19 @@
 #ICONOGRPAHY
+
 We have a custom set of icons for all our front-end applications. They are used across iOS, Android, and our web platform. We are continuing to grow our custom icon library.
+
+<section class="example">
+	<article>
+		<img src="/assets/images/icon_.png">
+		<img src="/assets/images/icon_.png">
+		<img src="/assets/images/icon_.png">
+		<img src="/assets/images/icon_.png">
+		<img src="/assets/images/icon_.png">
+		<img src="/assets/images/icon_.png">
+		<img src="/assets/images/icon_.png">
+		<img src="/assets/images/icon_.png">
+	</article>
+</section>
 
 <!--These rules are taken from another brand spec and should be altered as we build out our icon set-->
 <!--

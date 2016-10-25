@@ -83,9 +83,9 @@ Proper leading improves legibility, allowing words to breathe on a page or scree
 		<h4>28pt/42pt</h4>
 		<p class="fontSample fontSample--larger">Nesciunt voluptate meditation, bespoke gastropub kinfolk blog iPhone iceland velit humblebrag sartorial incididunt actually.</p>
 		<h4>22pt/34pt</h4>
-		<p class="fontSample fontSample--large">Semiotics excepteur blue bottle tousled. Brunch proident chambray vegan qui chicharrones. </p>
+		<p class="fontSample fontSample--large">Semiotics excepteur blue bottle tousled. Brunch proident chambray vegan qui chicharrones.</p>
 		<h4>18pt/29pt (Web Default)</h4>
-		<p class="fontSample fontSample--normal">YOLO gentrify fashion axe XOXO delectus.  Mlkshk leggings pabst kombucha. Master cleanse polaroid chia actually chillwave iceland occupy roof party sartorial. </p>
+		<p class="fontSample fontSample--normal">YOLO gentrify fashion axe XOXO delectus.  Mlkshk leggings pabst kombucha. Master cleanse polaroid chia actually chillwave iceland occupy roof party sartorial.</p>
 		<h4>16pt/26pt</h4>
 		<p class="fontSample fontSample--small">Ut umami sartorial brooklyn church-key, lomo locavore meditation 90's ramps cornhole meh laboris godard. Laboris freegan organic, XOXO bushwick celiac la croix dreamcatcher austin godard tumeric swag meggings.</p>
 		<h4>14pt/22pt</h4>

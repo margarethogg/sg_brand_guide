@@ -2,13 +2,13 @@
 
 <section class="example">
     <article>
-        <img src="/assets/images/sg_logo_mark.png">
+        <img src="/assets/images/sg_logo_mark.png" />
     </article>
 </section>
 
-Our iconic revolution mark and the Shiftgig name represent a new perspective on how everyday people work and how businesses hire. The revolution anchors our name, creating a balanced and complementary relationship. To download versions of our logo for print and general use, visit the [resources](https://margarethogg.gitbooks.io/sg_brand_guide/content/resources/01_resources.html) section of the guide.
+Our iconic revolution mark and the Shiftgig name represent a new perspective on how everyday people work and how businesses hire. The revolution anchors our name, creating a balanced and complementary relationship. To download versions of our logo for print and general use, visit the [resources](/content/resources/01_resources.html) section of the guide.
 
-Shiftgig Revolution Green has been specially selected as the defining color of our mark and our identity. To ensure proper reproduction of our logo, refer to the [color specifications](/content/brand_guidelines/07_color.html).
+Shiftgig Revolution Green has been specially selected as the defining color of our mark and our identity. To ensure proper reproduction of our logo, refer to our [color specifications](/content/brand_guidelines/07_color.html).
    
 ##LOGO USAGE
 
@@ -16,7 +16,7 @@ Shiftgig Revolution Green has been specially selected as the defining color of o
 
 <section class="example">
     <article>
-        <img src="/assets/images/sg_logo_exterior_spacing.png">
+        <img src="/assets/images/sg_logo_exterior_spacing.png" />
     </article>
 </section>
 
@@ -24,7 +24,11 @@ Giving our logo room to breathe allows it to separate itself from content so our
 
 ##LOGO TREATMENTS
 
-![image](/assets/images/sg_logo_variants.png)
+<section class="example">
+    <article>
+        <img src="/assets/images/sg_logo_variants.png" />
+    </article>
+</section>
 
 ###Shiftgig Green & Gray
 
@@ -48,42 +52,51 @@ Our logo should always be used a consistent manner. Never deviate from the estab
         <img src="/assets/images/sg_logo_bad_8.png" />
         <caption>Do Not stretch or distort the logo.</caption>
     </article>
+</section>
+<section class="example">
     <article>
-
         <img src="/assets/images/sg_logo_bad_5.png" />
         <caption>Do Not create new or unapproved logo lock-ups.</caption>
     </article>
+</section>
+<section class="example">
     <article>
-
         <img src="/assets/images/sg_logo_bad_7.png" />
         <caption>Do Not alter the proportions of the symbol or word mark or adjust the positioning of the elements.</caption>
     </article>
+</section>
+<section class="example">
     <article>
-
         <img src="/assets/images/sg_logo_bad_4.png" />
         <caption>Do Not add colors to the logo.</caption>
     </article>
+</section>
+<section class="example">
     <article>
         <img src="/assets/images/sg_logo_bad_6.png" />
         <caption>Do Not use the Shiftgig word mark alone.</caption>
     </article>
+</section>
+<section class="example">
     <article>
-
         <img src="/assets/images/sg_logo_bad_1.png" />
         <caption>Do Not add a drop shadow to the logo.</caption>
     </article>
+</section>
+<section class="example">
     <article>
-
         <img src="/assets/images/sg_logo_bad_2.png" />
         <caption>Do Not add a gradient to the logo.</caption>
     </article>
+</section>
+<section class="example">
     <article>
-
         <img src="/assets/images/sg_logo_bad_3.png" />
         <caption>Do Not recreate the logo with a different typeface.</caption>
     </article>
+</section>
+<section class="example">
     <article>
-
         <img src="/assets/images/sg_logo_bad_9.png" />
         <caption>Do Not use old versions of the Shiftgig logo.</caption>
     </article>

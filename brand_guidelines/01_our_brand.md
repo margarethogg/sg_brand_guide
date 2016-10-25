@@ -4,14 +4,14 @@ The brand must be easy to read and understand, express expertise, and speak in a
 
 # OUR PRINCIPLES
 
-## Tone of Voice
+### Tone of Voice
 * Friendly
 * Relevant
 * Contemporary
 * Welcoming
 * Helpful
 
-## Look & Feel
+### Look & Feel
 * Clean
 * Engaging
 * Contemporary

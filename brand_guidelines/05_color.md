@@ -78,6 +78,15 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 					<span>RGB: 251, 251, 154</span>
 				</div>
 			</li>
+		</ul>
+	</article>
+</section>
+
+##Grayscale
+
+<section class="colors example">
+	<article>
+		<ul>
 			<li class="block">
 				<div class="colors-preview colors--white"></div>
 				<div class="colors-name"><strong>White</strong>
@@ -87,30 +96,37 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 			</li>
 			<li class="block">
 				<div class="colors-preview colors--light-gray"></div>
-				<div class="colors-name"><strong>Light Gray</strong>
-					<span>HEX: #F9F9F9</span>
-					<span>RGB: 249, 249, 249</span>
+				<div class="colors-name"><strong>Very Light Gray</strong>
+					<span>HEX: #EEEEEE</span>
+					<span>RGB: </span>
 				</div>
 			</li>
 			<li class="block">
-				<div class="colors-preview colors--gray"></div>
-				<div class="colors-name"><strong>Gray</strong>
-					<span>HEX: #E2E2E2</span>
-					<span>RGB: 226, 226, 226</span>
+				<div class="colors-preview colors--light-gray"></div>
+				<div class="colors-name"><strong>Light Gray</strong>
+					<span>HEX: #C7C7C7</span>
+					<span>RGB: </span>
 				</div>
 			</li>
 			<li class="block">
 				<div class="colors-preview colors--medium-gray"></div>
 				<div class="colors-name"><strong>Medium Gray</strong>
-					<span>HEX: #959595</span>
-					<span>RGB: 149, 149, 149</span>
+					<span>HEX: #808080</span>
+					<span>RGB: </span>
 				</div>
 			</li>
 			<li class="block">
 				<div class="colors-preview colors--dark-gray"></div>
 				<div class="colors-name"><strong>Dark Gray</strong>
-					<span>HEX: #4A4A4A</span>
-					<span>RGB: 74, 74, 74</span>
+					<span>HEX: #494949</span>
+					<span>RGB: </span>
+				</div>
+			</li>
+			<li class="block">
+				<div class="colors-preview colors--shiftgig-black"></div>
+				<div class="colors-name"><strong>Shiftgig Black</strong>
+					<span>HEX: #313131</span>
+					<span>RGB: </span>
 				</div>
 			</li>
 		</ul>
@@ -174,39 +190,33 @@ Rules needed
 	<article>
 		<ul>
             <li class="block">
-				<div class="colors-preview-long colors--green"></div>
+				<div class="colors-preview colors--green"></div>
 				<div class="colors-name"><strong>Shiftgig Green</strong>
-					<span>Use for</span>
+					<span>Use for positive outcomes, final submission of collected info.</span>
 				</div>
 			</li>
 			<li class="block">
-				<div class="colors-preview-long colors--blue"></div>
+				<div class="colors-preview colors--blue"></div>
 				<div class="colors-name"><strong>Blue</strong>
-					<span>Use for</span>
+					<span>Use for link text, continuing in a flow.</span>
 				</div>
 			</li>
 			<li class="block">
-				<div class="colors-preview-long colors--orange"></div>
+				<div class="colors-preview colors--orange"></div>
 				<div class="colors-name"><strong>Attention Orange</strong>
-					<span>Use for</span>
+					<span>Use for areas where attention is needed.</span>
 				</div>
 			</li>
 			<li class="block">
-				<div class="colors-preview-long colors--red"></div>
+				<div class="colors-preview colors--red"></div>
 				<div class="colors-name"><strong>Warning Red</strong>
-					<span>Use for</span>
+					<span>Use for unactionable errors, backwards movement in a flow, and cancellation</span>
 				</div>
 			</li>
 			<li class="block">
-				<div class="colors-preview-long colors--yellow"></div>
-				<div class="colors-name"><strong>Note Yellow</strong>
-					<span>Use for</span>
-				</div>
-			</li>
-			<li class="block">
-				<div class="colors-preview-long colors--gray"></div>
+				<div class="colors-preview colors--gray"></div>
 				<div class="colors-name"><strong>Gray</strong>
-					<span>Use for</span>
+					<span>Use for past and disabled items.</span>
 				</div>
 			</li>
 		</ul>

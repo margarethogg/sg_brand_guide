@@ -263,14 +263,14 @@ p.fontSample {
 section.example {
 	@include outer-container;
 	border: 1px solid $color-gray;
-	@include pad(30px 30px 0px 30px);
+	@include pad(30px 30px 30px 30px);
 }
 .colors {
 	@include outer-container;
 }
 .colors .block {
-	@include span-columns(2);
-	@include omega(4n);
+	@include span-columns(3);
+	@include omega(3n);
 	margin-bottom: 1em;
 	@include media($mobile) {
 		@include span-columns(1);
@@ -369,8 +369,7 @@ section.example {
 .gradient--purple {
   @include brand-gradient(purple);
 }
-
 .markdown-section ol, .markdown-section ul {
-    padding-left: 2em;
+  padding-left: 2em;
 
 }
