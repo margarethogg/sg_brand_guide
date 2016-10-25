@@ -1,0 +1,1 @@
+{ "plugins": [ "styles-sass", "collapsible-menu", "header" ], "styles": { "website": "./styles/main.scss" }, "pluginsConfig": { "layout": { "headerPath" : "assets/layouts/header.html" } }}
