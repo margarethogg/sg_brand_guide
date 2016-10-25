@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "styles-sass",
-        "collapsible-menu"
+        "styles-sass"
     ],
     "styles": {
         "website": "./styles/main.scss"
