@@ -1,7 +1,7 @@
 #COLOR FIELDS
 An unexpected element to our brand is the use of angles within our web layouts. Angled color fields emphasize movement and drive our audience through the content of our pages. A slice of one of our [brand gradients](brand_guidelines/03_color.md#gradients) can be used to call out a testimonial or specialist image and energize the viewer.
 
-Angles are also used to separate content within our layouts. Standard angles include 4˚, 8˚, and 16˚, but some variation is allowed. Dense text should not be used over colorful gradient fields. When starting a new copy-heavy section use White (#FFFFFF), Light Gray (#F9F9F9), or one of our more neutral brand colors.
+Angles are also used to separate content within our layouts. Standard angles include 4˚, 8˚, and 16˚, but some variation is allowed. Dense text should not be used over colorful gradient fields. When starting a new copy-heavy section use White, Light Gray, or one of our more neutral brand colors.
 
 <section class="example">
     <article>
