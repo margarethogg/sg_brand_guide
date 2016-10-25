@@ -2,7 +2,7 @@
 
 <section class="example">
     <article>
-        ![image](/assets/images/sg_logo_mark.png)
+        <img src="/assets/images/sg_logo_mark.png">
     </article>
 </section>
 
@@ -16,7 +16,7 @@ Shiftgig Revolution Green has been specially selected as the defining color of o
 
 <section class="example">
     <article>
-        ![image](/assets/images/sg_logo_exterior_spacing.png)
+        <img src="/assets/images/sg_logo_exterior_spacing.png">
     </article>
 </section>
 
@@ -45,31 +45,46 @@ Our logo should always be used a consistent manner. Never deviate from the estab
 
 <section class="example">
      <article>
-![image](/assets/images/sg_logo_bad_8.png)
+        <img src="/assets/images/sg_logo_bad_8.png" />
         <caption>Do Not stretch or distort the logo.</caption>
+    </article>
+    <article>
 
-![image](/assets/images/sg_logo_bad_5.png)
+        <img src="/assets/images/sg_logo_bad_5.png" />
         <caption>Do Not create new or unapproved logo lock-ups.</caption>
+    </article>
+    <article>
 
-![image](/assets/images/sg_logo_bad_7.png)
+        <img src="/assets/images/sg_logo_bad_7.png" />
         <caption>Do Not alter the proportions of the symbol or word mark or adjust the positioning of the elements.</caption>
+    </article>
+    <article>
 
-![image](/assets/images/sg_logo_bad_4.png)
+        <img src="/assets/images/sg_logo_bad_4.png" />
         <caption>Do Not add colors to the logo.</caption>
-
-![image](/assets/images/sg_logo_bad_6.png)
+    </article>
+    <article>
+        <img src="/assets/images/sg_logo_bad_6.png" />
         <caption>Do Not use the Shiftgig word mark alone.</caption>
+    </article>
+    <article>
 
-![image](/assets/images/sg_logo_bad_1.png)
+        <img src="/assets/images/sg_logo_bad_1.png" />
         <caption>Do Not add a drop shadow to the logo.</caption>
+    </article>
+    <article>
 
-![image](/assets/images/sg_logo_bad_2.png)
+        <img src="/assets/images/sg_logo_bad_2.png" />
         <caption>Do Not add a gradient to the logo.</caption>
+    </article>
+    <article>
 
-![image](/assets/images/sg_logo_bad_3.png)
+        <img src="/assets/images/sg_logo_bad_3.png" />
         <caption>Do Not recreate the logo with a different typeface.</caption>
+    </article>
+    <article>
 
-![image](/assets/images/sg_logo_bad_9.png)
+        <img src="/assets/images/sg_logo_bad_9.png" />
         <caption>Do Not use old versions of the Shiftgig logo.</caption>
     </article>
 </section>
