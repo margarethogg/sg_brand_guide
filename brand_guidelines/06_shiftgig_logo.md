@@ -88,4 +88,3 @@ Our logo should always be used a consistent manner. Never deviate from the estab
         <caption>Do Not use old versions of the Shiftgig logo.</caption>
     </article>
 </section>
-
