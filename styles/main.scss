@@ -373,3 +373,9 @@ section.example {
   padding-left: 2em;
 
 }
+.book-summary ul.summary li a, .book-summary ul.summary li span {
+    font-size: 1em;
+}
+script {
+	display: initial!important;
+}
