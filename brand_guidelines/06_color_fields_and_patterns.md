@@ -19,7 +19,7 @@ The Shiftgig Revolution mark can be used as a pattern to provide texture to layo
 
 <section class="example">
     <article>
-        <img src="/assets/images/Dark Gradient Texture.png">
-        <img src="/assets/images/Light Texture.png">
+        <img src="/assets/images/Dark_Gradient_Texture.png" width="47%">
+        <img src="/assets/images/Light_Texture.png" width="47%" style="padding-left:20px">
     </article>
 </section>

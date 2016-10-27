@@ -14,8 +14,8 @@ We've built a library of illustrations in a style that complements our clean, co
 
 <section class="example">
 	<article>
-		<img src="/assets/images/shiftgig_illustration_asset_thumbsup.png">
-		<img src="/assets/images/shiftgig_illustration_asset_thumbsup_2.png">
+		<img src="/assets/images/shiftgig_illustration_asset_thumbs-1.png" width="350px" height="350px">
+		<img src="/assets/images/shiftgig_illustration_asset_thumbs-2.png" width="350px" height="350px" style="padding-left:20px">
 	</article>
 </section>
 
@@ -25,8 +25,8 @@ Build illustrations using simple geometric shapes combined with rounded corners.
 
 <section class="example">
 	<article>
-		<img src="/assets/images/shiftgig_illustration_asset_earth.png">
-		<img src="/assets/images/shiftgig_illustration_asset_earth_2.png">
+		<img src="/assets/images/shiftgig_illustration_asset_earth.png" width="350px" height="350px">
+		<img src="/assets/images/shiftgig_illustration_asset_earth_2.png" width="350px" height="350px" style="padding-left:20px">
 	</article>
 </section>
 
@@ -36,8 +36,8 @@ Reduce illustrations to their most simple forms and universal meanings. Abstract
 
 <section class="example">
 	<article>
-		<img src="/assets/images/shiftgig_illustration_asset_clock.png">
-		<img src="/assets/images/shiftgig_illustration_asset_clock_2.png">
+		<img src="/assets/images/shiftgig_illustration_asset_clock.png" width="330px" height="330px">
+		<img src="/assets/images/shiftgig_illustration_asset_clock_2.png" width="370px" height="370px">
 	</article>
 </section>
 
@@ -47,12 +47,13 @@ Our illustrations feature clean lines, open forms, crisp edges, and a lack of di
 
 <section class="example">
 	<article>
-		<img src="/assets/images/shiftgig_illustration_asset_.png">
-		<img src="/assets/images/shiftgig_illustration_asset_.png">
+                <img src="/assets/images/shiftgig_illustration_asset_icecream_2.png" width="200px">
+		<img src="/assets/images/shiftgig_illustration_asset_icecream_1.png" width="200px" style="padding-left:10px">
+               <img src="/assets/images/shiftgig_illustration_asset_icecream_3.png" width="200px" style="padding-left:10px">
 	</article>
 </section>
 
-Our brand illustrations are bright but not garish. For a palette based on our brand colors, please refer to the [Resources](resources/01_resources.md) section of this guide. 
+Our brand illustrations are bright but not garish. For a palette based on our brand colors, please refer to the [Resources](resources/01_resources.md) section of this guide.
 
 ##ILLUSTRATION DOS & DON'TS
 
