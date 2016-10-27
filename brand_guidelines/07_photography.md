@@ -19,40 +19,40 @@ When choosing photos to represent our Specialists and verticals, look for candid
 ###Natural vs. Staged
 
 <section class="images two-up example">
-	<article>
+	<figure>
 		<img src="/assets/images/natural-warehouse.png">
-		<caption class="do">Good photography example</caption>
-	</article>
-	<article>
+		<figcaption class="do">Good photography example</figcaption>
+	</figure>
+	<figure>
 		<img src="/assets/images/staged-warehouse.png">
-		<caption class="do-not">Bad photography example</caption>
-	</article>
+		<figcaption class="do-not">Bad photography example</figcaption>
+	</figure>
 </section>
 
 ###Unexpected vs. Cliche
 
 <section class="images two-up example">
-	<article>
+	<figure>
 		<img src="/assets/images/unexpected-event-staff.png">
-		<caption class="do">Good photography example</caption>
-	</article>
-	<article>
+		<figcaption class="do">Good photography example</figcaption>
+	</figure>
+	<figure>
 		<img src="/assets/images/cliche-event-staff.png">
-		<caption>Bad photography example</caption>
-	</article>
+		<figcaption>Bad photography example</figcaption>
+	</figure>
 </section>
 
 ###Specific vs. Generic
 
 <section class="images two-up example">
-	<article>
+	<figure>
 		<img src="/assets/images/specific-chef.png">
-		<caption class="do">Good photography example</caption>
-	</article>
-	<article>
+		<figcaption class="do">Good photography example</figcaption>
+	</figure>
+	<figure>
 		<img src="/assets/images/generic-chef.png">
-		<caption class="do-not">Bad photography example</caption>
-	</article>
+		<figcaption class="do-not">Bad photography example</figcaption>
+	</figure>
 </section>
 
 ##PERFECTING PHOTOGRAPHS
@@ -60,14 +60,14 @@ When choosing photos to represent our Specialists and verticals, look for candid
 ###Adjusting Levels
 
 <section class="images two-up example">
-	<article>
+	<figure>
 		<img src="/assets/images/Brand_Guide_Adjustment_1.png">
-		<caption>Before adjustments</caption>
-	</article>
-	<article>
+		<figcaption>Before adjustments</figcaption>
+	</figure>
+	<figure>
 		<img src="/assets/images/Brand_Guide_Adjustment_2.png">
-		<caption>After adjustments</caption>
-	</article>
+		<figcaption>After adjustments</figcaption>
+	</figure>
 </section>
 
 When dealing with photographs that seem flat or dull in tone, adjusting the levels and bumping up the contrast can be helpful. The final image should feel refined and pop off the screen.

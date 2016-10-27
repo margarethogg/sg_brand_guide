@@ -5,24 +5,24 @@ An unexpected element to our brand is the use of angles within our layouts. Angl
 Angles are also used to separate content within our layouts. Standard angles include 4˚, 8˚, and 16˚, but some variation is allowed. Dense text should not be used over colorful gradient fields. When starting a new copy-heavy section use White, Light Gray, or one of our more neutral brand colors.
 
 <section class="images one-up example">
-    <article>
+    <figure>
         <img src="/assets/images/Brand_Guide_Swoosh_Web1.png">
-    </article>
+    </figure>
 </section>
 <section class="images one-up example">
-    <article>
+    <figure>
         <img src="/assets/images/Brand_Guide_Swoosh_Web2.png">
-    </article>
+    </figure>
 </section>
 <section class="images one-up example">
-    <article>
+    <figure>
         <img src="/assets/images/Brand_Guide_Swoosh_Web3.png">
-    </article>
+    </figure>
 </section>
 <section class="images one-up example">
-    <article>
+    <figure>
         <img src="/assets/images/Brand_Guide_Swoosh_Marketing.png">
-    </article>
+    </figure>
 </section>
 
 #PATTERNS
@@ -30,10 +30,10 @@ Angles are also used to separate content within our layouts. Standard angles inc
 The Shiftgig Revolution mark can be used as a pattern to provide texture to layouts that would otherwise fall flat. Textural patterns should be subtle, so as not to distract or take away from content placed over them. Do not distort or flip the revolution mark in patterns. Refer to the [Resources](resources/01_resources.md) section of this guide for downloadable Illustrator and Sketch files containing usable textural patterns. 
 
 <section class="images two-up example">
-    <article>
+    <figure>
         <img src="/assets/images/Dark_Gradient_Texture.png">
-    </article>
-    <article>
+    </figure>
+    <figure>
         <img src="/assets/images/Light_Texture.png">
-    </article>
+    </figure>
 </section>

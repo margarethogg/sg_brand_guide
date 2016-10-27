@@ -273,16 +273,16 @@ section.example ul, .markdown-section .example ol, .markdown-section .example ul
 	padding: 0;
 	margin: 0;
 }
-section.example caption {
+section.example caption, section.example figcaption {
 	display: block;
 	margin-top: $lineHeight-tight;
 	font-size: $fontSize-smaller;
 }
-caption .do {
+caption.do, figcaption.do {
 
 	color: $color-green;
 }
-caption .do-not {
+caption.do-not, figcaption.do-not {
 	
 	color: $color-red;
 }
@@ -318,24 +318,28 @@ section.images img {
 	display: block;
 	@include fill-parent();
 }
-section.example .one-up article {
+section.one-up article,
+section.one-up figure {
 	@include fill-parent();
 }
-.example .two-up article {
+section.two-up article, 
+section.two-up figure {
 	@include span-columns(6 of 12);
 	@include omega(2n);
 	@include media($mobile) {
 		@include fill-parent();
 	}
 }
-section.example .three-up article {
+section.three-up article,
+section.three-up figure {
 	@include span-columns(4 of 12);
 	@include omega(3n);
 	@include media($mobile) {
 		@include fill-parent();
 	}
 }
-section.example .eight-up article {
+section.eight-up article, 
+section.eight-up figure {
 	@include span-columns(1 of 12);
 	@include omega(12n);
 	@include media($mobile) {

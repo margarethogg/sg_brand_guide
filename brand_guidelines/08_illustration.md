@@ -1,9 +1,9 @@
 #ILLUSTRATION
 
 <section class="images">
-	<article>
+	<figure>
 		<img src="/assets/images/shiftgig_illustration_asset_icecream.png">
-	</article>
+	</figure>
 </section>
 
 We've built a library of illustrations in a style that complements our clean, contemporary, and friendly brand. Our use of color and visual rhythm ties our illustrations together across our entire library.
@@ -13,14 +13,14 @@ We've built a library of illustrations in a style that complements our clean, co
 ###Geometric
 
 <section class="images two-up example">
-	<article>
+	<figure>
 		<img src="/assets/images/shiftgig_illustration_asset_thumbs-1.png">
-		<caption class="do">Geographic shapes.</caption>
-	</article>
-	<article>
+		<figcaption class="do">Geographic shapes.</figcaption>
+	</figure>
+	<figure>
 		<img src="/assets/images/shiftgig_illustration_asset_thumbs-2.png">
-		<caption class="do-not">Too freeform and curvy.</caption>
-	</article>
+		<figcaption class="do-not">Too freeform and curvy.</figcaption>
+	</figure>
 </section>
 
 Build illustrations using simple geometric shapes combined with rounded corners. The use of circles, squares, and simple forms as the basis for our illustrations sets up a rhythm that ties our visual language together. Prefer lines that fall at 45º and 90º to randomly chosen angles and curves.
@@ -28,14 +28,14 @@ Build illustrations using simple geometric shapes combined with rounded corners.
 ###Iconic
 
 <section class="images two-up example">
-	<article>
+	<figure>
 		<img src="/assets/images/shiftgig_illustration_asset_earth.png">
-		<caption class="do">Simple and abstract.</caption>
-	</article>
-	<article>
+		<figcaption class="do">Simple and abstract.</figcaption>
+	</figure>
+	<figure>
 		<img src="/assets/images/shiftgig_illustration_asset_earth_2.png">
-		<caption class="do-not">Too much line detail.</caption>
-	</article>
+		<figcaption class="do-not">Too much line detail.</figcaption>
+	</figure>
 </section>
 
 Reduce illustrations to their most simple forms and universal meanings. Abstracting images makes them accessible to a wider audience. Larger and more complex illustrations can be further reduced into icons for use in small spaces, or where the content should be highlighted rather than the image.
@@ -43,14 +43,14 @@ Reduce illustrations to their most simple forms and universal meanings. Abstract
 ###Flat
 
 <section class="images two-up example">
-	<article>
+	<figure>
 		<img src="/assets/images/shiftgig_illustration_asset_clock.png">
-		<caption class="do">Flat and iconic.</caption>
-	</article>
-	<article>
+		<figcaption class="do">Flat and iconic.</figcaption>
+	</figure>
+	<figure>
 		<img src="/assets/images/shiftgig_illustration_asset_clock_2.png">
-		<caption class="do-not">Too much texture and dimension.</caption>
-	</article>
+		<figcaption class="do-not">Too much texture and dimension.</figcaption>
+	</figure>
 </section>
 
 Our illustrations feature clean lines, open forms, crisp edges, and a lack of dimension. Flat design offers a simplified, classical aesthetic. Avoid creating overly detailed, textured or photo-realistic images.
@@ -58,18 +58,18 @@ Our illustrations feature clean lines, open forms, crisp edges, and a lack of di
 ###Bright
 
 <section class="images three-up example">
-	<article>
+	<figure>
 		<img src="/assets/images/shiftgig_illustration_asset_icecream_1.png">
-		<caption class="do">Good colors.</caption>
-	</article>
-	<article>
+		<figcaption class="do">Good colors.</figcaption>
+	</figure>
+	<figure>
         <img src="/assets/images/shiftgig_illustration_asset_icecream_2.png">
-		<caption class="do-not">Too saturated and high contrast.</caption>
-	</article>
-	<article>
+		<figcaption class="do-not">Too saturated and high contrast.</figcaption>
+	</figure>
+	<figure>
         <img src="/assets/images/shiftgig_illustration_asset_icecream_3.png">
-		<caption class="do-not">Too desaturated.</caption>
-	</article>
+		<figcaption class="do-not">Too desaturated.</figcaption>
+	</figure>
 </section>
 
 Our brand illustrations are bright but not garish. For a palette based on our brand colors, please refer to the [Resources](resources/01_resources.md) section of this guide.
