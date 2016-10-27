@@ -1,7 +1,7 @@
-# RESOURCES
+#RESOURCES
 
 ##FONTS
-The Museo font and its variations are licensed to us and cannot be shared on this page. Please contact [design@shiftgig.com](mailto:design.shiftgig.com) if you have questions about its use.
+The Museo font and its variations are licensed to us and cannot be shared on this page. Please contact [design@shiftgig.com](mailto:design@shiftgig.com) if you have questions about its use.
 
 For SF and Roboto fonts for download, please visit the [Apple](https://developer.apple.com/fonts/) and [Material Design](https://material.google.com/resources/roboto-noto-fonts.html) Developer guides.
 

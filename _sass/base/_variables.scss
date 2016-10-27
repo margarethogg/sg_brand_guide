@@ -72,14 +72,15 @@ $color-green: rgba(140,204,125,1);       /* Shiftgig Green */
 $color-dark-green: rgba(101,152,92,1);   /* Shadow Green */
 $color-grey-green: rgba(102,111,110,1);  /* Logo Text Green */
 
-$color-light-gray: rgba(249,249,249,1);
-$color-gray: rgba(226,226,226,1);
-$color-medium-gray: rgba(149,149,149,1); 
-$color-dark-gray: rgba(74,74,74,1);
-
+$color-lightest-gray: rgba(249,249,249,1);
+$color-background-gray: rgba(238,238,238,1);
+$color-light-gray: rgba(199,199,199,1);
+$color-medium-gray: rgba(128,128,128,1); 
+$color-dark-gray: rgba(73,73,73,1);
+$color-black: rgba(49,49,49,1);
 
 /* Background Color */
-$base-bg-color: $color-light-gray;
+$base-bg-color: $color-lightest-gray!important;
 
 /* Font Colors */
 $base-font-color: $color-dark-gray;
@@ -92,7 +93,7 @@ $base-button-color: $color-green;
 $hover-button-color: lighten($base-button-color, 15);
 
 /* Border color */
-$base-border-color: $color-gray;
+$base-border-color: $color-light-gray;
 
 /* Flash Colors */
 $alert-color: $color-orange;

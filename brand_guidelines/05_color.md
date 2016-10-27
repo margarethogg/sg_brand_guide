@@ -35,7 +35,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 	</article>
 </section>
 
-##SUPPORTING COLORS
+###Supporting Colors
 
 <section class="colors example">
 	<article>
@@ -82,7 +82,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 	</article>
 </section>
 
-##Grayscale
+###Grayscale
 
 <section class="colors example">
 	<article>
@@ -95,38 +95,32 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 				</div>
 			</li>
 			<li class="block">
-				<div class="colors-preview colors--light-gray"></div>
-				<div class="colors-name"><strong>Very Light Gray</strong>
-					<span>HEX: #EEEEEE</span>
-					<span>RGB: </span>
+				<div class="colors-preview colors--lightest-gray" style="border:1px solid white"></div>
+				<div class="colors-name"><strong>Web Background Gray</strong>
+					<span>HEX: #F9F9F9 </span>
+					<span>RGB: 249, 249, 249 </span>
+                              
 				</div>
 			</li>
 			<li class="block">
 				<div class="colors-preview colors--light-gray"></div>
 				<div class="colors-name"><strong>Light Gray</strong>
 					<span>HEX: #C7C7C7</span>
-					<span>RGB: </span>
-				</div>
-			</li>
-			<li class="block">
-				<div class="colors-preview colors--medium-gray"></div>
-				<div class="colors-name"><strong>Medium Gray</strong>
-					<span>HEX: #808080</span>
-					<span>RGB: </span>
+					<span>RGB: 199, 199, 199 </span>
 				</div>
 			</li>
 			<li class="block">
 				<div class="colors-preview colors--dark-gray"></div>
 				<div class="colors-name"><strong>Dark Gray</strong>
 					<span>HEX: #494949</span>
-					<span>RGB: </span>
+					<span>RGB: 73, 73 ,73 </span>
 				</div>
 			</li>
 			<li class="block">
-				<div class="colors-preview colors--shiftgig-black"></div>
+				<div class="colors-preview colors--black"></div>
 				<div class="colors-name"><strong>Shiftgig Black</strong>
 					<span>HEX: #313131</span>
-					<span>RGB: </span>
+					<span>RGB: 49, 49, 49 </span>
 				</div>
 			</li>
 		</ul>
@@ -184,7 +178,7 @@ Our color palette includes gradients for our five primary brand colors. Gradient
 	</article>
 </section>
 
-Rules needed
+##Color Rules
 
 <section class="colors example">
 	<article>
@@ -214,7 +208,7 @@ Rules needed
 				</div>
 			</li>
 			<li class="block">
-				<div class="colors-preview colors--gray"></div>
+				<div class="colors-preview colors--light-gray"></div>
 				<div class="colors-name"><strong>Gray</strong>
 					<span>Use for past and disabled items.</span>
 				</div>

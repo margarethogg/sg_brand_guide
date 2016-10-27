@@ -25,7 +25,7 @@ body {
 	font-size: $fontSize-base;
 	line-hieght: $lineHeight-base;
 	color: $color-dark-gray;
-	background: $color-light-gray;
+	background: $color-lightest-gray;
 }
 h1,h2,h3,h4,h5 {
   font-family: "MuseoSansRounded", "Helvetica Neue", Helvetica, sans-serif;
@@ -47,7 +47,7 @@ img {
 }
 .book-body {
 	color: $color-dark-gray;
-	background: $color-light-gray;
+	background: $color-lightest-gray;
 }
 .global-header {
 	position: fixed;
@@ -156,7 +156,7 @@ img {
 .sampleBox {
 	padding: $lineHeight-base;
 	background: $color-white;
-	border: 1px solid $color-gray;
+	border: 1px solid $color-light-gray;
 }
 .typography-samples .block {
 	@include span-columns(2);
@@ -262,7 +262,7 @@ p.fontSample {
 }
 section.example {
 	@include outer-container;
-	border: 1px solid $color-gray;
+	border: 1px solid $color-light-gray;
 	@include pad(30px 30px 30px 30px);
 }
 .colors {
@@ -318,14 +318,17 @@ section.example {
 .colors--dark-gray {
 	background: $color-dark-gray;
 }
-.colors--gray {
-	background: $color-gray;
-}
 .colors--medium-gray {
 	background: $color-medium-gray;
 }
 .colors--light-gray {
 	background: $color-light-gray;
+}
+.colors--background-gray {
+ background: $color-background-gray;
+}
+.colors--background-gray {
+ background: $color-lightest-gray;
 }
 .colors--green {
 	background: $color-green;
@@ -353,6 +356,9 @@ section.example {
 }
 .colors--white {
 	background: white;
+}
+.colors--black {
+ background: $color-black;
 }
 .gradient--green {
   @include brand-gradient(green);
