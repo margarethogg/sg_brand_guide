@@ -1,6 +1,6 @@
 #ILLUSTRATION
 
-<section class="example">
+<section class="images one-up example">
 	<article>
 		<img src="/assets/images/shiftgig_illustration_asset_icecream.png">
 	</article>
@@ -12,10 +12,10 @@ We've built a library of illustrations in a style that complements our clean, co
 
 ###Geometric
 
-<section class="example">
+<section class="images two-up example">
 	<article>
-		<img src="/assets/images/shiftgig_illustration_asset_thumbs-1.png" width="350px" height="350px">
-		<img src="/assets/images/shiftgig_illustration_asset_thumbs-2.png" width="350px" height="350px" style="padding-left:20px">
+		<img src="/assets/images/shiftgig_illustration_asset_thumbs-1.png">
+		<img src="/assets/images/shiftgig_illustration_asset_thumbs-2.png">
 	</article>
 </section>
 
@@ -23,10 +23,10 @@ Build illustrations using simple geometric shapes combined with rounded corners.
 
 ###Iconic
 
-<section class="example">
+<section class="images two-up example">
 	<article>
-		<img src="/assets/images/shiftgig_illustration_asset_earth.png" width="350px" height="350px">
-		<img src="/assets/images/shiftgig_illustration_asset_earth_2.png" width="350px" height="350px" style="padding-left:20px">
+		<img src="/assets/images/shiftgig_illustration_asset_earth.png">
+		<img src="/assets/images/shiftgig_illustration_asset_earth_2.png">
 	</article>
 </section>
 
@@ -34,10 +34,10 @@ Reduce illustrations to their most simple forms and universal meanings. Abstract
 
 ###Flat
 
-<section class="example">
+<section class="images two-up example">
 	<article>
-		<img src="/assets/images/shiftgig_illustration_asset_clock.png" width="330px" height="330px">
-		<img src="/assets/images/shiftgig_illustration_asset_clock_2.png" width="370px" height="370px">
+		<img src="/assets/images/shiftgig_illustration_asset_clock.png">
+		<img src="/assets/images/shiftgig_illustration_asset_clock_2.png">
 	</article>
 </section>
 
@@ -45,11 +45,11 @@ Our illustrations feature clean lines, open forms, crisp edges, and a lack of di
 
 ###Bright
 
-<section class="example">
+<section class="images three-up example">
 	<article>
-                <img src="/assets/images/shiftgig_illustration_asset_icecream_2.png" width="200px">
-		<img src="/assets/images/shiftgig_illustration_asset_icecream_1.png" width="200px" style="padding-left:10px">
-               <img src="/assets/images/shiftgig_illustration_asset_icecream_3.png" width="200px" style="padding-left:10px">
+        <img src="/assets/images/shiftgig_illustration_asset_icecream_2.png">
+		<img src="/assets/images/shiftgig_illustration_asset_icecream_1.png">
+        <img src="/assets/images/shiftgig_illustration_asset_icecream_3.png">
 	</article>
 </section>
 

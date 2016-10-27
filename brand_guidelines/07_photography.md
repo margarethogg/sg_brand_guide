@@ -18,7 +18,7 @@ When choosing photos to represent our Specialists and verticals, look for candid
 
 ###Natural vs. Staged
 
-<section class="example">
+<section class="images two-up example">
 	<article>
 		<img src="/assets/images/natural-warehouse.png">
 		<img src="/assets/images/staged-warehouse.png">
@@ -27,7 +27,7 @@ When choosing photos to represent our Specialists and verticals, look for candid
 
 ###Unexpected vs. Cliche
 
-<section class="example">
+<section class="images two-up example">
 	<article>
 		<img src="/assets/images/unexpected-event-staff.png">
 		<img src="/assets/images/cliche-event-staff.png">
@@ -36,7 +36,7 @@ When choosing photos to represent our Specialists and verticals, look for candid
 
 ###Specific vs. Generic
 
-<section class="example">
+<section class="images two-up example">
 	<article>
 		<img src="/assets/images/specific-chef.png">
 		<img src="/assets/images/generic-chef.png">
@@ -58,7 +58,7 @@ When choosing photos to represent our Specialists and verticals, look for candid
 
 ###Adjusting Levels
 
-<section class="example">
+<section class="images two-up example">
 	<article>
 		<img src="/assets/images/Brand_Guide_Adjustment_1.png">
 		<img src="/assets/images/Brand_Guide_Adjustment_2.png">

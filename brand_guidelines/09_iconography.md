@@ -2,7 +2,7 @@
 
 We have a custom set of icons for all our front-end applications. They are used across iOS, Android, and our web platform. We are continuing to grow our custom icon library.
 
-<section class="example">
+<section class="icons eight-up example">
 	<article>
 		<img src="/assets/images/icon_.png">
 		<img src="/assets/images/icon_.png">
