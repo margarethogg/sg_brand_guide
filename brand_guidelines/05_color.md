@@ -133,7 +133,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 	</article>
 </section>
 
-#GRADIENTS
+###GRADIENTS
 
 Our color palette includes gradients for our five primary brand colors. Gradients are best used as background color fields to support hero imagery. These gradients should not be used in illustration, on buttons, or behind large blocks of text.
 
@@ -184,11 +184,17 @@ Our color palette includes gradients for our five primary brand colors. Gradient
 	</article>
 </section>
 
-##Color Rules
+##Color Messaging
 
 <section class="colors example">
 	<article>
 		<ul>
+			<li class="block">
+				<div class="colors-preview colors--blue"></div>
+				<div class="colors-name"><strong>Blue</strong>
+					<span>Use for link text, continuing in a flow.</span>
+				</div>
+			</li>
             <li class="block">
 				<div class="colors-preview colors--green"></div>
 				<div class="colors-name"><strong>Shiftgig Green</strong>
@@ -196,21 +202,15 @@ Our color palette includes gradients for our five primary brand colors. Gradient
 				</div>
 			</li>
 			<li class="block">
-				<div class="colors-preview colors--blue"></div>
-				<div class="colors-name"><strong>Blue</strong>
-					<span>Use for link text, continuing in a flow.</span>
+				<div class="colors-preview colors--red"></div>
+				<div class="colors-name"><strong>Warning Red</strong>
+					<span>Use for unactionable errors, backwards movement in a flow, and cancellation</span>
 				</div>
 			</li>
 			<li class="block">
 				<div class="colors-preview colors--orange"></div>
 				<div class="colors-name"><strong>Bullpen Orange</strong>
 					<span>Use for areas where attention is needed.</span>
-				</div>
-			</li>
-			<li class="block">
-				<div class="colors-preview colors--red"></div>
-				<div class="colors-name"><strong>Warning Red</strong>
-					<span>Use for unactionable errors, backwards movement in a flow, and cancellation</span>
 				</div>
 			</li>
 			<li class="block">

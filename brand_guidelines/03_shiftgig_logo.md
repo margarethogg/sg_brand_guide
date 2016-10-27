@@ -6,9 +6,9 @@
     </figure>
 </section>
 
-Our iconic revolution mark and the Shiftgig name represent a new perspective on how everyday people work and how businesses hire. The revolution anchors our name, creating a balanced and complementary relationship. To download versions of our logo for print and general use, visit the [resources](/content/resources/01_resources.html) section of the guide.
+Our iconic revolution mark and the Shiftgig name represent a new perspective on how everyday people work and how businesses hire. The revolution anchors our name, creating a balanced and complementary relationship. To download versions of our logo for print and general use, visit our [Media page](https://www.shiftgig.com/info).
 
-Shiftgig Revolution Green has been specially selected as the defining color of our mark and our identity. To ensure proper reproduction of our logo, refer to our [color specifications](/content/brand_guidelines/07_color.html).
+Shiftgig Revolution Green has been specially selected as the defining color of our mark and our identity. To ensure proper reproduction of our logo, refer to our [color specifications](/content/brand_guidelines/05_color.html).
    
 ##LOGO USAGE
 
@@ -45,7 +45,6 @@ The solid black or white versions of the logo are reserved for use in grayscale 
 ##INCORRECT USAGE
 
 Our logo should always be used a consistent manner. Never deviate from the established colors and proportions above. Any modification of the logo confuses its meaning and diminishes its impact.
-
 
 <section class="images two-up example">
      <figure>

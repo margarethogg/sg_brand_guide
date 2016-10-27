@@ -23,7 +23,7 @@ We've built a library of illustrations in a style that complements our clean, co
 	</figure>
 </section>
 
-Build illustrations using simple geometric shapes combined with rounded corners. The use of circles, squares, and simple forms as the basis for our illustrations sets up a rhythm that ties our visual language together. Prefer lines that fall at 45º and 90º to randomly chosen angles and curves.
+Build illustrations using simple geometric shapes combined with rounded corners. The use of circles, squares, and simple forms as the basis for our illustrations sets up a rhythm that ties our visual language together. Prefer lines that fall at 45&deg; and 90&deg; to randomly chosen angles and curves.
 
 ###Iconic
 
@@ -72,7 +72,7 @@ Our illustrations feature clean lines, open forms, crisp edges, and a lack of di
 	</figure>
 </section>
 
-Our brand illustrations are bright but not garish. For a palette based on our brand colors, please refer to the [Resources](resources/01_resources.md) section of this guide.
+Our brand illustrations are bright but not garish. For a palette based on our brand colors, please contact [design@shiftgig.com](mailto:design@shiftgig.com).
 
 ##ILLUSTRATION DOS & DON'TS
 

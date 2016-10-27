@@ -1,9 +1,8 @@
 # LANGUAGE & TONE
 
-
 Shiftgig is a contemporary and edgy brand. We use concise action driven language that has a splash of slang to it, giving it an accessible and human tone. 
 
-## TONE OF VOICE
+### TONE OF VOICE
 * Friendly
 * Relevant
 * Contemporary
@@ -23,11 +22,3 @@ Be encouraging at every turn. Boost their confidence that our service, over othe
 Always tip the balance towards them, not us.
 
 Let’s not forget some fun and wit.
-
-<!-- 
-### Segmentation
-
-Since it’s a service, those we’re helping are less “customers” than they are users. “Workers” sounds like you belong in a factory.
-
-I prefer to think of all sides as variants of “specialists.” Businesses trying to be smart and succeed. Workers who choose this lifestyle and have committed to it. 
--->

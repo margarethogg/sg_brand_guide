@@ -189,7 +189,7 @@ h1.tooDamnBig {
 	line-height: $lineHeight-base;
 }
 .fontSample h4 {
-	font-size: $fontSize-larger;
+	font-size: $fontSize-larger!important;
 	margin-bottom: 0;
 }
 h5.fontSample {
@@ -200,31 +200,31 @@ p.fontSample {
 	margin-top: 0;
 }
 .fontSample--smallest {
-	font-size: $fontSize-smallest;
+	font-size: $fontSize-smallest!important;
 	line-height: 1.6;
 }
 .fontSample--smaller {
-	font-size: $fontSize-smaller;
+	font-size: $fontSize-smaller!important;
 	line-height: 1.6;
 }
 .fontSample--small {
-	font-size: $fontSize-small;
+	font-size: $fontSize-small!important;
 	line-height: 1.6;
 }
 .fontSample--normal {
-	font-size: $fontSize-base;
+	font-size: $fontSize-base!important;
 	line-height: 1.6;
 }
 .fontSample--large {
-	font-size: $fontSize-large;
+	font-size: $fontSize-large!important;
 	line-height: 1.54;
 }
 .fontSample--larger {
-	font-size: $fontSize-larger;
+	font-size: $fontSize-larger!important;
 	line-height: 1.5;
 }
 .fontSample--largest {
-	font-size: $fontSize-largest;
+	font-size: $fontSize-largest!important;
 	line-height: 1.5;
 }
 
@@ -265,7 +265,7 @@ section.example {
 	@include outer-container;
 	border: 1px solid $color-light-gray;
 	@include pad(30px 30px 30px 30px);
-	font-size: $fontSize-small;
+	font-size: 80%;
 	margin-bottom: 30px;
 }
 section.example ul, .markdown-section .example ol, .markdown-section .example ul {
