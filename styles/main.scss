@@ -312,23 +312,26 @@ section.example {
 .colors--dark-green {
 	background: $color-dark-green;
 }
-.colors--grey-green {
-	background: $color-grey-green;
+.colors--white {
+	background: $color-white;
 }
-.colors--dark-gray {
-	background: $color-dark-gray;
+.colors--lightest-gray {
+	background: $color-lightest-gray;
 }
-.colors--medium-gray {
-	background: $color-medium-gray;
+.colors--background-gray {
+	background: $color-background-gray;
 }
 .colors--light-gray {
 	background: $color-light-gray;
 }
-.colors--background-gray {
- background: $color-background-gray;
+.colors--medium-gray {
+	background: $color-medium-gray;
 }
-.colors--background-gray {
- background: $color-lightest-gray;
+.colors--dark-gray {
+	background: $color-dark-gray;
+}
+.colors--shiftgig-black {
+	background: $color-shiftgig-black;
 }
 .colors--green {
 	background: $color-green;
@@ -370,7 +373,7 @@ section.example {
   @include brand-gradient(orange);
 }
 .gradient--grey {
-  @include brand-gradient(grey);
+  @include brand-gradient(gray);
 }
 .gradient--purple {
   @include brand-gradient(purple);
