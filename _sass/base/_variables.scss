@@ -77,13 +77,14 @@ $color-background-gray: rgba(238,238,238,1);
 $color-light-gray: rgba(199,199,199,1);
 $color-medium-gray: rgba(128,128,128,1); 
 $color-dark-gray: rgba(73,73,73,1);
-$color-black: rgba(49,49,49,1);
+$color-shiftgig-black: rgba(49,49,49,1);
+$color-black: rgba(0,0,0,1);
 
 /* Background Color */
-$base-bg-color: $color-lightest-gray!important;
+$base-bg-color: $color-lightest-gray;
 
 /* Font Colors */
-$base-font-color: $color-dark-gray;
+$base-font-color: $color-shiftgig-black;
 $base-accent-color: $color-light-green;
 
 /* Link Colors */

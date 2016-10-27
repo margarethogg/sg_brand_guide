@@ -189,6 +189,7 @@ h1.tooDamnBig {
 	line-height: $lineHeight-base;
 }
 .fontSample h4 {
+	font-size: $fontSize-larger;
 	margin-bottom: 0;
 }
 h5.fontSample {
@@ -264,12 +265,19 @@ section.example {
 	@include outer-container;
 	border: 1px solid $color-light-gray;
 	@include pad(30px 30px 30px 30px);
+	font-size: $fontSize-small;
 }
+section.example caption {
+	display: block;
+	font-size: $fontSize-smaller;
+	color: $color-red;
+}
+
 .colors {
 	@include outer-container;
 }
 .colors .block {
-	@include span-columns(3);
+	@include span-columns(4);
 	@include omega(3n);
 	margin-bottom: 1em;
 	@include media($mobile) {
@@ -285,6 +293,42 @@ section.example {
 		@include omega(2n);
 	}
 }
+.icons .block {
+	@include span-columns(1);
+	@include omega(8n);
+	@include media($mobile) {
+		@include span-columns(1);
+		@include omega(2n);
+	}
+}
+section.images img {
+	display: block;
+	@include fill-parent();
+}
+section.example .one-up article {
+	@include fill-parent();
+}
+.example .two-up article {
+	@include span-columns(6);
+	@include omega(2n);
+	@include media($mobile) {
+		@include fill-parent();
+	}
+}
+section.example .three-up article {
+	@include span-columns(4);
+	@include omega(3n);
+	@include media($mobile) {
+		@include fill-parent();
+	}
+}
+section.example .eight-up article {
+	@include span-columns(1);
+	@include omega(8n);
+	@include media($mobile) {
+		@include fill-parent();
+	}
+}
 .colors-preview {
 	height: $lineHeight-base * 6;
 	@include media($mobile) {
@@ -298,7 +342,7 @@ section.example {
 	}
 }
 .colors-name {
-	font-size: $fontSize-smaller;
+	font-size: $fontSize-smallest;
 	line-height: $lineHeight-tight;
 	padding: $lineHeight-base / 4;
 	text-align: center;
@@ -312,23 +356,26 @@ section.example {
 .colors--dark-green {
 	background: $color-dark-green;
 }
-.colors--grey-green {
-	background: $color-grey-green;
+.colors--white {
+	background: $color-white;
 }
-.colors--dark-gray {
-	background: $color-dark-gray;
+.colors--lightest-gray {
+	background: $color-lightest-gray;
 }
-.colors--medium-gray {
-	background: $color-medium-gray;
+.colors--background-gray {
+	background: $color-background-gray;
 }
 .colors--light-gray {
 	background: $color-light-gray;
 }
-.colors--background-gray {
- background: $color-background-gray;
+.colors--medium-gray {
+	background: $color-medium-gray;
 }
-.colors--background-gray {
- background: $color-lightest-gray;
+.colors--dark-gray {
+	background: $color-dark-gray;
+}
+.colors--shiftgig-black {
+	background: $color-shiftgig-black;
 }
 .colors--green {
 	background: $color-green;
@@ -370,7 +417,7 @@ section.example {
   @include brand-gradient(orange);
 }
 .gradient--grey {
-  @include brand-gradient(grey);
+  @include brand-gradient(gray);
 }
 .gradient--purple {
   @include brand-gradient(purple);
