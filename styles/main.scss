@@ -189,6 +189,7 @@ h1.tooDamnBig {
 	line-height: $lineHeight-base;
 }
 .fontSample h4 {
+	font-size: $fontSize-larger;
 	margin-bottom: 0;
 }
 h5.fontSample {
@@ -264,12 +265,19 @@ section.example {
 	@include outer-container;
 	border: 1px solid $color-light-gray;
 	@include pad(30px 30px 30px 30px);
+	font-size: $fontSize-small;
 }
+section.example caption {
+	display: block;
+	font-size: $fontSize-smaller;
+	color: $color-red;
+}
+
 .colors {
 	@include outer-container;
 }
 .colors .block {
-	@include span-columns(3);
+	@include span-columns(4);
 	@include omega(3n);
 	margin-bottom: 1em;
 	@include media($mobile) {
@@ -298,7 +306,7 @@ section.example {
 	}
 }
 .colors-name {
-	font-size: $fontSize-smaller;
+	font-size: $fontSize-smallest;
 	line-height: $lineHeight-tight;
 	padding: $lineHeight-base / 4;
 	text-align: center;
