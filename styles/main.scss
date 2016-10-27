@@ -275,10 +275,17 @@ section.example ul, .markdown-section .example ol, .markdown-section .example ul
 }
 section.example caption {
 	display: block;
+	margin-top: $lineHeight-tight;
 	font-size: $fontSize-smaller;
+}
+caption .do {
+
+	color: $color-green;
+}
+caption .do-not {
+	
 	color: $color-red;
 }
-
 .colors {
 	@include outer-container;
 }
@@ -360,7 +367,7 @@ section.example .eight-up article {
 	}
 }
 .colors--dark-green {
-	background: $color-dark-green;
+	background: $color-grey-green;
 }
 .colors--white {
 	background: $color-white;

@@ -47,57 +47,41 @@ The solid black or white versions of the logo are reserved for use in grayscale 
 Our logo should always be used a consistent manner. Never deviate from the established colors and proportions above. Any modification of the logo confuses its meaning and diminishes its impact.
 
 
-<section class="images example">
+<section class="images two-up example">
      <article>
         <img src="/assets/images/sg_logo_bad_8.png" />
-        <caption>Do Not stretch or distort the logo.</caption>
+        <caption class="do-not">Do Not stretch or distort the logo.</caption>
     </article>
-</section>
-<section class="images example">
     <article>
         <img src="/assets/images/sg_logo_bad_5.png" />
-        <caption>Do Not create new or unapproved logo lock-ups.</caption>
+        <caption class="do-not">Do Not create new or unapproved logo lock-ups.</caption>
     </article>
-</section>
-<section class="images example">
     <article>
         <img src="/assets/images/sg_logo_bad_7.png" />
-        <caption>Do Not alter the proportions of the symbol or word mark or adjust the positioning of the elements.</caption>
+        <caption class="do-not">Do Not alter the proportions of the symbol or word mark or adjust the positioning of the elements.</caption>
     </article>
-</section>
-<section class="images example">
     <article>
         <img src="/assets/images/sg_logo_bad_4.png" />
-        <caption>Do Not add colors to the logo.</caption>
+        <caption class="do-not">Do Not add colors to the logo.</caption>
     </article>
-</section>
-<section class="images example">
     <article>
         <img src="/assets/images/sg_logo_bad_6.png" />
-        <caption>Do Not use the Shiftgig word mark alone.</caption>
+        <caption class="do-not">Do Not use the Shiftgig word mark alone.</caption>
     </article>
-</section>
-<section class="images example">
     <article>
         <img src="/assets/images/sg_logo_bad_1.png" />
-        <caption>Do Not add a drop shadow to the logo.</caption>
+        <caption class="do-not">Do Not add a drop shadow to the logo.</caption>
     </article>
-</section>
-<section class="images example">
     <article>
         <img src="/assets/images/sg_logo_bad_2.png" />
-        <caption>Do Not add a gradient to the logo.</caption>
+        <caption class="do-not">Do Not add a gradient to the logo.</caption>
     </article>
-</section>
-<section class="images example">
     <article>
         <img src="/assets/images/sg_logo_bad_3.png" />
-        <caption>Do Not recreate the logo with a different typeface.</caption>
+        <caption class="do-not">Do Not recreate the logo with a different typeface.</caption>
     </article>
-</section>
-<section class="images example">
     <article>
         <img src="/assets/images/sg_logo_bad_9.png" />
-        <caption>Do Not use old versions of the Shiftgig logo.</caption>
+        <caption class="do-not">Do Not use old versions of the Shiftgig logo.</caption>
     </article>
 </section>
