@@ -21,7 +21,11 @@ When choosing photos to represent our Specialists and verticals, look for candid
 <section class="images two-up example">
 	<article>
 		<img src="/assets/images/natural-warehouse.png">
+		<caption class="do">Good photography example</caption>
+	</article>
+	<article>
 		<img src="/assets/images/staged-warehouse.png">
+		<caption class="do-not">Bad photography example</caption>
 	</article>
 </section>
 
@@ -30,7 +34,11 @@ When choosing photos to represent our Specialists and verticals, look for candid
 <section class="images two-up example">
 	<article>
 		<img src="/assets/images/unexpected-event-staff.png">
+		<caption class="do">Good photography example</caption>
+	</article>
+	<article>
 		<img src="/assets/images/cliche-event-staff.png">
+		<caption>Bad photography example</caption>
 	</article>
 </section>
 
@@ -39,20 +47,13 @@ When choosing photos to represent our Specialists and verticals, look for candid
 <section class="images two-up example">
 	<article>
 		<img src="/assets/images/specific-chef.png">
-		<img src="/assets/images/generic-chef.png">
+		<caption class="do">Good photography example</caption>
 	</article>
-</section>
-<!--
-
-###Diverse vs. Uniform
-
-<section class="example">
 	<article>
-		<img src="">
-		<img src="">
+		<img src="/assets/images/generic-chef.png">
+		<caption class="do-not">Bad photography example</caption>
 	</article>
 </section>
--->
 
 ##PERFECTING PHOTOGRAPHS
 
@@ -61,12 +62,16 @@ When choosing photos to represent our Specialists and verticals, look for candid
 <section class="images two-up example">
 	<article>
 		<img src="/assets/images/Brand_Guide_Adjustment_1.png">
+		<caption>Before adjustments</caption>
+	</article>
+	<article>
 		<img src="/assets/images/Brand_Guide_Adjustment_2.png">
+		<caption>After adjustments</caption>
 	</article>
 </section>
 
 When dealing with photographs that seem flat or dull in tone, adjusting the levels and bumping up the contrast can be helpful. The final image should feel refined and pop off the screen.
 
-###A Note Cbout Cropping
+###A Note About Cropping
 
 Cropping can drastically change the tone of an image. When cropping, take care to make sure that the focal point is visible when placed within your layout. While working with responsive layouts, make sure your focal point doesn't shift out of view when a layout is resized or viewed on another device. Avoid centered focal points, as they are challenging and unfriendly to the viewer. Follow the rule of thirds to create balanced compositions.

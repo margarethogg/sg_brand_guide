@@ -1,6 +1,6 @@
 #ILLUSTRATION
 
-<section class="images one-up example">
+<section class="images">
 	<article>
 		<img src="/assets/images/shiftgig_illustration_asset_icecream.png">
 	</article>
@@ -15,7 +15,11 @@ We've built a library of illustrations in a style that complements our clean, co
 <section class="images two-up example">
 	<article>
 		<img src="/assets/images/shiftgig_illustration_asset_thumbs-1.png">
+		<caption class="do">Geographic shapes.</caption>
+	</article>
+	<article>
 		<img src="/assets/images/shiftgig_illustration_asset_thumbs-2.png">
+		<caption class="do-not">Too freeform and curvy.</caption>
 	</article>
 </section>
 
@@ -26,7 +30,11 @@ Build illustrations using simple geometric shapes combined with rounded corners.
 <section class="images two-up example">
 	<article>
 		<img src="/assets/images/shiftgig_illustration_asset_earth.png">
+		<caption class="do">Simple and abstract.</caption>
+	</article>
+	<article>
 		<img src="/assets/images/shiftgig_illustration_asset_earth_2.png">
+		<caption class="do-not">Too much line detail.</caption>
 	</article>
 </section>
 
@@ -37,7 +45,11 @@ Reduce illustrations to their most simple forms and universal meanings. Abstract
 <section class="images two-up example">
 	<article>
 		<img src="/assets/images/shiftgig_illustration_asset_clock.png">
+		<caption class="do">Flat and iconic.</caption>
+	</article>
+	<article>
 		<img src="/assets/images/shiftgig_illustration_asset_clock_2.png">
+		<caption class="do-not">Too much texture and dimension.</caption>
 	</article>
 </section>
 
@@ -47,9 +59,16 @@ Our illustrations feature clean lines, open forms, crisp edges, and a lack of di
 
 <section class="images three-up example">
 	<article>
-        <img src="/assets/images/shiftgig_illustration_asset_icecream_2.png">
 		<img src="/assets/images/shiftgig_illustration_asset_icecream_1.png">
+		<caption class="do">Good colors.</caption>
+	</article>
+	<article>
+        <img src="/assets/images/shiftgig_illustration_asset_icecream_2.png">
+		<caption class="do-not">Too saturated and high contrast.</caption>
+	</article>
+	<article>
         <img src="/assets/images/shiftgig_illustration_asset_icecream_3.png">
+		<caption class="do-not">Too desaturated.</caption>
 	</article>
 </section>
 

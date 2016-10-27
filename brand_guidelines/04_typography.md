@@ -25,7 +25,7 @@ For versatility, we've included several weights for each of our font families. B
 			</li>
 			<li class="sampleBox block">
 				  <div class="sampleBox--fontBlack">
-				  	<h2>Aa</h2>
+				  	<h3>Aa</h3>
 				  	<p>Black</p>
 				  </div>
 			</li>

@@ -169,19 +169,19 @@ img {
 h1.tooDamnBig {
   font-size: $fontSize-tooDamnBig;
 }
-.sampleBox--fontLight * {
+.sampleBox--fontLight h3, .sampleBox--fontLight p {
 	font-weight: 100;
 	margin: 0;
 }
-.sampleBox--fontNormal * {
+.sampleBox--fontNormal h3, .sampleBox--fontNormal p {
 	font-weight: 300;
 	margin: 0;
 }
-.sampleBox--fontBold * {
+.sampleBox--fontBold h3, .sampleBox--fontBold p {
 	font-weight: 700;
 	margin: 0;
 }
-.sampleBox--fontBlack * {
+.sampleBox--fontBlack h3, .sampleBox--fontBlack p {
 	font-weight: 900;
 	margin: 0;
 }
@@ -266,6 +266,12 @@ section.example {
 	border: 1px solid $color-light-gray;
 	@include pad(30px 30px 30px 30px);
 	font-size: $fontSize-small;
+	margin-bottom: 30px;
+}
+section.example ul, .markdown-section .example ol, .markdown-section .example ul {
+	padding-left: 0;
+	padding: 0;
+	margin: 0;
 }
 section.example caption {
 	display: block;

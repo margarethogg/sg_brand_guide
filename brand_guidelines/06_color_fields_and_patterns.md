@@ -7,8 +7,20 @@ Angles are also used to separate content within our layouts. Standard angles inc
 <section class="images one-up example">
     <article>
         <img src="/assets/images/Brand_Guide_Swoosh_Web1.png">
+    </article>
+</section>
+<section class="images one-up example">
+    <article>
         <img src="/assets/images/Brand_Guide_Swoosh_Web2.png">
+    </article>
+</section>
+<section class="images one-up example">
+    <article>
         <img src="/assets/images/Brand_Guide_Swoosh_Web3.png">
+    </article>
+</section>
+<section class="images one-up example">
+    <article>
         <img src="/assets/images/Brand_Guide_Swoosh_Marketing.png">
     </article>
 </section>

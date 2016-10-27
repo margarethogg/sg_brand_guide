@@ -24,7 +24,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 				</div>
 			</li>
 			<li class="block">
-				<div class="colors-preview colors--grey-green"></div>
+				<div class="colors-preview colors--gray-green"></div>
 				<div class="colors-name"><strong>Logo Type Green</strong>
 					<span>HEX: #666F6E</span>
 					<span>RGB: 102, 111, 1107</span>
@@ -98,8 +98,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 				<div class="colors-preview colors--lightest-gray" style="border:1px solid white"></div>
 				<div class="colors-name"><strong>Web Background Gray</strong>
 					<span>HEX: #F9F9F9 </span>
-					<span>RGB: 249, 249, 249 </span>
-                              
+					<span>RGB: 249, 249, 249 </span>        
 				</div>
 			</li>
 			<li class="block">
@@ -110,6 +109,13 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 				</div>
 			</li>
 			<li class="block">
+				<div class="colors-preview colors--medium-gray"></div>
+				<div class="colors-name"><strong>Medium Gray</strong>
+					<span>HEX: #808080</span>
+					<span>RGB: 128, 128, 128 </span>
+				</div>
+			</li>
+			<li class="block">
 				<div class="colors-preview colors--dark-gray"></div>
 				<div class="colors-name"><strong>Dark Gray</strong>
 					<span>HEX: #494949</span>
@@ -117,7 +123,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 				</div>
 			</li>
 			<li class="block">
-				<div class="colors-preview colors--black"></div>
+				<div class="colors-preview colors--shiftgig-black"></div>
 				<div class="colors-name"><strong>Shiftgig Black</strong>
 					<span>HEX: #313131</span>
 					<span>RGB: 49, 49, 49 </span>
@@ -197,7 +203,7 @@ Our color palette includes gradients for our five primary brand colors. Gradient
 			</li>
 			<li class="block">
 				<div class="colors-preview colors--orange"></div>
-				<div class="colors-name"><strong>Attention Orange</strong>
+				<div class="colors-name"><strong>Bullpen Orange</strong>
 					<span>Use for areas where attention is needed.</span>
 				</div>
 			</li>
@@ -209,7 +215,7 @@ Our color palette includes gradients for our five primary brand colors. Gradient
 			</li>
 			<li class="block">
 				<div class="colors-preview colors--light-gray"></div>
-				<div class="colors-name"><strong>Gray</strong>
+				<div class="colors-name"><strong>Light Gray</strong>
 					<span>Use for past and disabled items.</span>
 				</div>
 			</li>
