@@ -279,7 +279,7 @@ section.example caption, section.example figcaption {
 	@include fill-parent();
 	line-height: $lineHeight-tight;
 	margin-top: $lineHeight-tight;
-	font-size: $fontSize-smallest;
+	font-size: 80%;
 	margin-bottom: $lineHeight-tight;
 }
 caption.do, figcaption.do {
@@ -446,7 +446,7 @@ section.eight-up figure {
 
 }
 .book-summary ul.summary li a, .book-summary ul.summary li span {
-    font-size: $fontSize-smaller!important;
+    font-size: 80%;
     padding: 0px 10px;
 }
 script {
