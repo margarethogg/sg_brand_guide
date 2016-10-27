@@ -38,7 +38,7 @@ When choosing photos to represent our Specialists and verticals, look for candid
 	</figure>
 	<figure>
 		<img src="/assets/images/cliche-event-staff.png">
-		<figcaption>Bad photography example</figcaption>
+		<figcaption class="do-not">Bad photography example</figcaption>
 	</figure>
 </section>
 
@@ -61,11 +61,11 @@ When choosing photos to represent our Specialists and verticals, look for candid
 
 <section class="images two-up example">
 	<figure>
-		<img src="/assets/images/Brand_Guide_Adjustment_1.png">
+		<img src="/assets/images/Brand_Guide_Adjustment_1.jpg">
 		<figcaption>Before adjustments</figcaption>
 	</figure>
 	<figure>
-		<img src="/assets/images/Brand_Guide_Adjustment_2.png">
+		<img src="/assets/images/Brand_Guide_Adjustment_2.jpg">
 		<figcaption>After adjustments</figcaption>
 	</figure>
 </section>

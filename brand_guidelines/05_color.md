@@ -24,7 +24,7 @@ We've chosen a soft and bright palette that makes us unique in our industry. Ser
 				</div>
 			</li>
 			<li class="block">
-				<div class="colors-preview colors--gray-green"></div>
+				<div class="colors-preview colors--dark-green"></div>
 				<div class="colors-name"><strong>Logo Type Green</strong>
 					<span>HEX: #666F6E</span>
 					<span>RGB: 102, 111, 1107</span>
