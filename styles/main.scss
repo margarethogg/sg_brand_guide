@@ -275,15 +275,17 @@ section.example ul, .markdown-section .example ol, .markdown-section .example ul
 }
 section.example caption, section.example figcaption {
 	display: block;
+	text-align: center;
+	@include fill-parent();
+	line-height: $lineHeight-tight;
 	margin-top: $lineHeight-tight;
-	font-size: $fontSize-smaller;
+	font-size: $fontSize-smallest;
+	margin-bottom: $lineHeight-tight;
 }
 caption.do, figcaption.do {
-
 	color: $color-green;
 }
 caption.do-not, figcaption.do-not {
-	
 	color: $color-red;
 }
 .colors {
@@ -444,9 +446,7 @@ section.eight-up figure {
 
 }
 .book-summary ul.summary li a, .book-summary ul.summary li span {
-    font-size: $fontSize-small;
-}
-.book-summary ul.summary li a, .book-summary ul.summary li span {
+    font-size: $fontSize-smaller!important;
     padding: 0px 10px;
 }
 script {
