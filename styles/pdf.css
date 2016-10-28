@@ -1,46 +1,10 @@
-/* CSS for pdf */
-@font-face {
-	font-family: 'MuseoSansRounded-100';
-	src: url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-100.eot');
-	src: url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-100?#iefix') format('embedded-opentype'),
-		 url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-100.woff') format('woff'),
-		 url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-100.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'MuseoSansRounded-300';
-	src: url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-300.eot');
-	src: url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-300?#iefix') format('embedded-opentype'),
-		 url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-300.woff') format('woff'),
-		 url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-300.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'MuseoSansRounded-500';
-	src: url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-500.eot');
-	src: url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-500?#iefix') format('embedded-opentype'),
-		 url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-500.woff') format('woff'),
-		 url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-500.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'MuseoSansRounded-700';
-	src: url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-700.eot');
-	src: url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-700?#iefix') format('embedded-opentype'),
-		 url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-700') format('woff'),
-		 url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-700') format('truetype');
-}
-@font-face {
-	font-family: 'MuseoSansRounded-900';
-	src: url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-900.eot');
-	src: url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-900?#iefix') format('embedded-opentype'),
-		 url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-900.woff') format('woff'),
-		 url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-900.ttf') format('truetype');
-}
 @page {
   size: A4 landscape;
 }
-@page {
+@page:left {
   @top-center {
     margin: 10pt 0 30pt 0;
-    content: "Shiftgig Brand Guidelines";
+    content: "Shiftgig Brand Guidelines: " string(doctitle);
     font-size: 12pt;
     color: #313131;
   }
@@ -58,11 +22,16 @@
   }
   body {
     font-family: "MuseoSansRounded", "Helvetica Neue", Helvetica, sans-serif;
-	font-weight: 300;
+    font-weight: 300;
     line-height: 1.5;
     font-size: 12pt;
   }
   h1,h2,h3,h4,h5 {
       font-family: "MuseoSansRounded", "Helvetica Neue", Helvetica, sans-serif;
-   }
+      page-break-after: avoid;
+      page-break-inside: avoid;
+  }
+}
+ul.toc a::after {
+  content: target-counter(attr(href), page);
 }
