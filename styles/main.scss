@@ -159,10 +159,10 @@ img {
 	border: 1px solid $color-light-gray;
 }
 .typography-samples .block {
-	@include span-columns(2);
+	@include span-columns(2 of 8);
 	@include omega(4n);
 	@include media($mobile) {
-		@include span-columns(1);
+		@include span-columns(1 of 2);
 		@include omega(2n);
 	}
 }
@@ -200,27 +200,27 @@ p.fontSample {
 	margin-top: 0;
 }
 .fontSample--smallest {
-	font-size: $fontSize-smallest!important;
+	font-size: 12px!important;
 	line-height: 1.6;
 }
 .fontSample--smaller {
-	font-size: $fontSize-smaller!important;
+	font-size: 14px!important;
 	line-height: 1.6;
 }
 .fontSample--small {
-	font-size: $fontSize-small!important;
+	font-size: 16px!important;
 	line-height: 1.6;
 }
 .fontSample--normal {
-	font-size: $fontSize-base!important;
+	font-size: 18px!important;
 	line-height: 1.6;
 }
 .fontSample--large {
-	font-size: $fontSize-large!important;
+	font-size: 22px!important;
 	line-height: 1.54;
 }
 .fontSample--larger {
-	font-size: $fontSize-larger!important;
+	font-size: 28px!important;
 	line-height: 1.5;
 }
 .fontSample--largest {
@@ -326,7 +326,7 @@ section.one-up figure {
 }
 section.two-up article, 
 section.two-up figure {
-	@include span-columns(1 of 2);
+	@include span-columns(6 of 12);
 	@include omega(2n);
 	@include media($mobile) {
 		@include fill-parent();
@@ -337,8 +337,8 @@ section.three-up figure {
 	@include span-columns(1 of 3);
 	@include omega(3n);
 	@include media($mobile) {
-		@include span-columns(1 of 3);
-		@include omega(3n);
+		@include span-columns(1 of 2);
+		@include omega(2n);
 	}
 }
 section.eight-up article, 
