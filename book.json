@@ -3,6 +3,7 @@
         "styles-sass"
     ],
     "styles": {
-        "website": "./styles/main.scss"
+        "website": "./styles/main.scss",
+        "pdf": "styles/pdf.css"
     }
 }
