@@ -38,7 +38,11 @@ ul.toc a::after {
   content: target-counter(attr(href), page);
 }
 @page {
-  size: A4 landscape;
+    size: A4 landscape;
+    font-family: "MuseoSansRounded", "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 300;
+    line-height: 1.5;
+    font-size: 12pt;
 }
 @page:left {
   @top-center {
