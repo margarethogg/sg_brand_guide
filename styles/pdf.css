@@ -1,4 +1,15 @@
 @page {
   size: A4 landscape;
 }
-
+@top-center {
+    margin: 10pt 0 30pt 0;
+    content: "Shiftgig Brand Guidelines: " string(doctitle);
+    font-size: 12pt;
+    color: #313131;
+  }
+  @bottom-right {
+    margin: 30pt 0 10pt 0;
+    content: url("../assets/images/logo.svg");
+    height: 72pt;
+    width: auto;
+  }
