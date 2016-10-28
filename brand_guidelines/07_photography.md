@@ -20,11 +20,11 @@ When choosing photos to represent our Specialists and verticals, look for candid
 
 <section class="images two-up example">
 	<figure>
-		<img src="/assets/images/natural-warehouse.png">
+		<img src="/assets/images/Natural-bartender.png">
 		<figcaption class="do">Good photography example</figcaption>
 	</figure>
 	<figure>
-		<img src="/assets/images/staged-warehouse.png">
+		<img src="/assets/images/Staged-bartender.png">
 		<figcaption class="do-not">Bad photography example</figcaption>
 	</figure>
 </section>
