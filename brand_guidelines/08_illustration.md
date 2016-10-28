@@ -59,12 +59,12 @@ Our illustrations feature clean lines, open forms, crisp edges, and a lack of di
 
 <section class="images three-up example">
 	<figure>
-		<img src="/assets/images/shiftgig_illustration_asset_icecream_1.png">
-		<figcaption class="do">Good colors.</figcaption>
-	</figure>
-	<figure>
         <img src="/assets/images/shiftgig_illustration_asset_icecream_2.png">
 		<figcaption class="do-not">Too saturated and high contrast.</figcaption>
+	</figure>
+	<figure>
+		<img src="/assets/images/shiftgig_illustration_asset_icecream_1.png">
+		<figcaption class="do">Good colors.</figcaption>
 	</figure>
 	<figure>
         <img src="/assets/images/shiftgig_illustration_asset_icecream_3.png">
