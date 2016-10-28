@@ -37,6 +37,18 @@
 	<figure>
 		<img src="/assets/images/sg_icon_12.png">
 	</figure>
+	<figure>
+		<img src="/assets/images/sg_icon_13.png">
+	</figure>
+	<figure>
+		<img src="/assets/images/sg_icon_14.png">
+	</figure>
+	<figure>
+		<img src="/assets/images/sg_icon_15.png">
+	</figure>
+	<figure>
+		<img src="/assets/images/sg_icon_16.png">
+	</figure>
 </section>
 
 We have a custom set of icons for all our front-end applications. They are used across iOS, Android, and our web platforms. We are continuing to grow our custom icon library every day. To request access to the library, please contact [design@shiftgig.com](mailto:design@shiftgig.com).
