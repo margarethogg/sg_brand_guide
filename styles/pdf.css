@@ -6,13 +6,22 @@ div.frontcover {
   width: 100%;
   height: 100%; 
 }
+body {
+  font-family: "MuseoSansRounded", "Helvetica Neue", Helvetica, sans-serif;
+	font-weight: 300;
+  line-height: 1.5;
+  font-size: 12pt;
+}
+h1,h2,h3,h4,h5 {
+  font-family: "MuseoSansRounded", "Helvetica Neue", Helvetica, sans-serif;
+}
 @page {
   size: A4 landscape; 
   @top-center {
     margin: 10pt 0 30pt 0;
     content: "Shiftgig Brand Guidelines";
     font-size: 12pt;
-    color: #919191;
+    color: #313131;
   }
   @bottom-right {
     margin: 30pt 0 10pt 0;
@@ -23,9 +32,4 @@ div.frontcover {
 }
 table, figure {
   page-break-inside: avoid;
-}
-body {
-  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
-  line-height: 1.5;
-  font-size: 11pt;
 }
