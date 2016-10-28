@@ -2,7 +2,7 @@
 
 <section class="images">
 	<figure>
-		<img src="/assets/images/shiftgig_illustration_asset_icecream.png">
+		<img src="/assets/images/shiftgig_illustration_asset_icecream.png" style="width:500px;height:auto;">
 	</figure>
 </section>
 

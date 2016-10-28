@@ -20,7 +20,7 @@ $lineHeight-looser: ceil( modular-scale($lineHeight-base, 2, $minor-sixth) );   
 $h1-line: $lineHeight-base;
 $h1-lines: 2;
 $h1-line-height: $h1-line * $h1-lines;
-$h1-margin-top: 2 * $h1-line;
+$h1-margin-top: 1.2 * $h1-line;
 $h1-margin-bottom: 1 * $h1-line;
  
 $h2-line: $lineHeight-base;

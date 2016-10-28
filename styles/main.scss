@@ -277,10 +277,10 @@ section.example caption, section.example figcaption {
 	display: block;
 	text-align: center;
 	@include fill-parent();
-	line-height: $lineHeight-tight;
-	margin-top: $lineHeight-tight;
-	font-size: 80%;
-	margin-bottom: $lineHeight-tight;
+	line-height: $lineHeight-tighter;
+	margin-top: 5px;
+	font-size: 90%;
+	margin-bottom: 5px;
 }
 caption.do, figcaption.do {
 	color: $color-green;
@@ -342,8 +342,8 @@ section.three-up figure {
 }
 section.eight-up article, 
 section.eight-up figure {
-	@include span-columns(1 of 12);
-	@include omega(12n);
+	@include span-columns(1 of 8);
+	@include omega(8n);
 	@include media($mobile) {
 		@include fill-parent();
 	}
@@ -361,8 +361,8 @@ section.eight-up figure {
 	}
 }
 .colors-name {
-	font-size: $fontSize-smallest;
-	line-height: $lineHeight-tight;
+	font-size: 90%;
+	line-height: $lineHeight-tighter;
 	padding: $lineHeight-base / 4;
 	text-align: center;
 	background-color: #fff;
