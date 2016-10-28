@@ -278,9 +278,9 @@ section.example caption, section.example figcaption {
 	text-align: center;
 	@include fill-parent();
 	line-height: $lineHeight-tighter;
-	margin-top: 5px;
+	margin-top: 10px;
 	font-size: 90%;
-	margin-bottom: 5px;
+	padding-bottom: 20px;
 }
 caption.do, figcaption.do {
 	color: $color-green;

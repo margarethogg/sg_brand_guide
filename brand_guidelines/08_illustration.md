@@ -10,7 +10,7 @@ We've built a library of illustrations in a style that complements our clean, co
 
 ##ILLUSTRATION CREATION RULES
 
-###Geometric
+###Geometric VS. Freeform
 
 <section class="images two-up example">
 	<figure>
@@ -25,7 +25,7 @@ We've built a library of illustrations in a style that complements our clean, co
 
 Build illustrations using simple geometric shapes combined with rounded corners. The use of circles, squares, and simple forms as the basis for our illustrations sets up a rhythm that ties our visual language together. Prefer lines that fall at 45&deg; and 90&deg; to randomly chosen angles and curves.
 
-###Iconic
+###Abstract VS. Naturalistic
 
 <section class="images two-up example">
 	<figure>
@@ -40,7 +40,7 @@ Build illustrations using simple geometric shapes combined with rounded corners.
 
 Reduce illustrations to their most simple forms and universal meanings. Abstracting images makes them accessible to a wider audience. Larger and more complex illustrations can be further reduced into icons for use in small spaces, or where the content should be highlighted rather than the image.
 
-###Flat
+###Flat VS. Dimensional
 
 <section class="images two-up example">
 	<figure>
@@ -55,7 +55,7 @@ Reduce illustrations to their most simple forms and universal meanings. Abstract
 
 Our illustrations feature clean lines, open forms, crisp edges, and a lack of dimension. Flat design offers a simplified, classical aesthetic. Avoid creating overly detailed, textured or photo-realistic images.
 
-###Bright
+###Bright VS. Monotone
 
 <section class="images three-up example">
 	<figure>
