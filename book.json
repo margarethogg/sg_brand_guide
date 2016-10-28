@@ -4,6 +4,6 @@
     ],
     "styles": {
         "website": "./styles/main.scss",
-        "pdf": "./styles/main.scss"
+        "pdf": "./styles/pdf.css"
     }
 }
