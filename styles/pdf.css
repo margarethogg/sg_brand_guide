@@ -34,10 +34,9 @@
 		 url('fonts/MuseoSansRounded/MuseoSansRounded-900.woff') format('woff'),
 		 url('fonts/MuseoSansRounded/MuseoSansRounded-900.ttf') format('truetype');
 }
-
 div.frontcover { 
   page: cover; 
-  content: url("assets/images/pdf_cover.png");
+  content: "Shiftgig Brand Guidelines;
   width: 100%;
   height: 100%; 
 }
