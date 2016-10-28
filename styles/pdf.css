@@ -35,6 +35,9 @@
 		 url('./assets/fonts/MuseoSansRounded/MuseoSansRounded-900.ttf') format('truetype');
 }
 @page {
+  size: A4 landscape;
+}
+@page {
   @top-center {
     margin: 10pt 0 30pt 0;
     content: "Shiftgig Brand Guidelines";
